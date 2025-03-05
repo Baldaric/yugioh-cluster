@@ -1,0 +1,4582 @@
+[
+    {
+        "name": "Activates cards from your Deck",
+        "url": "https://yugipedia.com/wiki/Activates_cards_from_your_Deck"
+    },
+    {
+        "name": "Activates cards from your Graveyard",
+        "url": "https://yugipedia.com/wiki/Activates_cards_from_your_Graveyard"
+    },
+    {
+        "name": "Activates cards from your hand",
+        "url": "https://yugipedia.com/wiki/Activates_cards_from_your_hand"
+    },
+    {
+        "name": "Activates during the turn in which it was Flip Summoned",
+        "url": "https://yugipedia.com/wiki/Activates_during_the_turn_in_which_it_was_Flip_Summoned"
+    },
+    {
+        "name": "Activates during the turn in which it was Fusion Summoned",
+        "url": "https://yugipedia.com/wiki/Activates_during_the_turn_in_which_it_was_Fusion_Summoned"
+    },
+    {
+        "name": "Activates during the turn in which it was Normal Summoned",
+        "url": "https://yugipedia.com/wiki/Activates_during_the_turn_in_which_it_was_Normal_Summoned"
+    },
+    {
+        "name": "Activates during the turn in which it was Ritual Summoned",
+        "url": "https://yugipedia.com/wiki/Activates_during_the_turn_in_which_it_was_Ritual_Summoned"
+    },
+    {
+        "name": "Activates during the turn in which it was Special Summoned",
+        "url": "https://yugipedia.com/wiki/Activates_during_the_turn_in_which_it_was_Special_Summoned"
+    },
+    {
+        "name": "Activates during the turn in which it was Tribute Summoned",
+        "url": "https://yugipedia.com/wiki/Activates_during_the_turn_in_which_it_was_Tribute_Summoned"
+    },
+    {
+        "name": "Activates from your Deck",
+        "url": "https://yugipedia.com/wiki/Activates_from_your_Deck"
+    },
+    {
+        "name": "Activates from your Extra Deck",
+        "url": "https://yugipedia.com/wiki/Activates_from_your_Extra_Deck"
+    },
+    {
+        "name": "Activates from your Graveyard",
+        "url": "https://yugipedia.com/wiki/Activates_from_your_Graveyard"
+    },
+    {
+        "name": "Activates from your hand",
+        "url": "https://yugipedia.com/wiki/Activates_from_your_hand"
+    },
+    {
+        "name": "Activates if a card leaves the Extra Deck",
+        "url": "https://yugipedia.com/wiki/Activates_if_a_card_leaves_the_Extra_Deck"
+    },
+    {
+        "name": "Activates if added to the hand",
+        "url": "https://yugipedia.com/wiki/Activates_if_added_to_the_hand"
+    },
+    {
+        "name": "Activates if battle damage is inflicted",
+        "url": "https://yugipedia.com/wiki/Activates_if_battle_damage_is_inflicted"
+    },
+    {
+        "name": "Activates if battle positions change",
+        "url": "https://yugipedia.com/wiki/Activates_if_battle_positions_change"
+    },
+    {
+        "name": "Activates if destroyed",
+        "url": "https://yugipedia.com/wiki/Activates_if_destroyed"
+    },
+    {
+        "name": "Activates if destroyed by battle",
+        "url": "https://yugipedia.com/wiki/Activates_if_destroyed_by_battle"
+    },
+    {
+        "name": "Activates if destroyed by card effect",
+        "url": "https://yugipedia.com/wiki/Activates_if_destroyed_by_card_effect"
+    },
+    {
+        "name": "Activates if destroyed while Set",
+        "url": "https://yugipedia.com/wiki/Activates_if_destroyed_while_Set"
+    },
+    {
+        "name": "Activates if detached from Xyz Monster to activate its effect",
+        "url": "https://yugipedia.com/wiki/Activates_if_detached_from_Xyz_Monster_to_activate_its_effect"
+    },
+    {
+        "name": "Activates if effect damage is inflicted",
+        "url": "https://yugipedia.com/wiki/Activates_if_effect_damage_is_inflicted"
+    },
+    {
+        "name": "Activates if it destroys a monster by battle",
+        "url": "https://yugipedia.com/wiki/Activates_if_it_destroys_a_monster_by_battle"
+    },
+    {
+        "name": "Activates if it leaves the field",
+        "url": "https://yugipedia.com/wiki/Activates_if_it_leaves_the_field"
+    },
+    {
+        "name": "Activates if moved to another Zone",
+        "url": "https://yugipedia.com/wiki/Activates_if_moved_to_another_Zone"
+    },
+    {
+        "name": "Activates if other cards are banished",
+        "url": "https://yugipedia.com/wiki/Activates_if_other_cards_are_banished"
+    },
+    {
+        "name": "Activates if other cards are sent to the Graveyard",
+        "url": "https://yugipedia.com/wiki/Activates_if_other_cards_are_sent_to_the_Graveyard"
+    },
+    {
+        "name": "Activates if other cards are sent to the Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Activates_if_other_cards_are_sent_to_the_Graveyard_for_cost"
+    },
+    {
+        "name": "Activates if other cards leave the field",
+        "url": "https://yugipedia.com/wiki/Activates_if_other_cards_leave_the_field"
+    },
+    {
+        "name": "Activates if other Pendulum Zone is occupied",
+        "url": "https://yugipedia.com/wiki/Activates_if_other_Pendulum_Zone_is_occupied"
+    },
+    {
+        "name": "Activates if other Pendulum Zone is occupied by specific card",
+        "url": "https://yugipedia.com/wiki/Activates_if_other_Pendulum_Zone_is_occupied_by_specific_card"
+    },
+    {
+        "name": "Activates if other Pendulum Zone is unoccupied",
+        "url": "https://yugipedia.com/wiki/Activates_if_other_Pendulum_Zone_is_unoccupied"
+    },
+    {
+        "name": "Activates if returned from the field to the hand",
+        "url": "https://yugipedia.com/wiki/Activates_if_returned_from_the_field_to_the_hand"
+    },
+    {
+        "name": "Activates if sent to the Graveyard",
+        "url": "https://yugipedia.com/wiki/Activates_if_sent_to_the_Graveyard"
+    },
+    {
+        "name": "Activates if sent to the Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Activates_if_sent_to_the_Graveyard_for_cost"
+    },
+    {
+        "name": "Activates if targeted by card effect",
+        "url": "https://yugipedia.com/wiki/Activates_if_targeted_by_card_effect"
+    },
+    {
+        "name": "Activates if targeted for an attack",
+        "url": "https://yugipedia.com/wiki/Activates_if_targeted_for_an_attack"
+    },
+    {
+        "name": "Activates if Tributed",
+        "url": "https://yugipedia.com/wiki/Activates_if_Tributed"
+    },
+    {
+        "name": "Activates if used as Fusion Material",
+        "url": "https://yugipedia.com/wiki/Activates_if_used_as_Fusion_Material"
+    },
+    {
+        "name": "Activates if used as Link Material",
+        "url": "https://yugipedia.com/wiki/Activates_if_used_as_Link_Material"
+    },
+    {
+        "name": "Activates if used as Synchro Material",
+        "url": "https://yugipedia.com/wiki/Activates_if_used_as_Synchro_Material"
+    },
+    {
+        "name": "Activates if used as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Activates_if_used_as_Xyz_Material"
+    },
+    {
+        "name": "Activates if Xyz Material is detached",
+        "url": "https://yugipedia.com/wiki/Activates_if_Xyz_Material_is_detached"
+    },
+    {
+        "name": "Activates if you draw a card",
+        "url": "https://yugipedia.com/wiki/Activates_if_you_draw_a_card"
+    },
+    {
+        "name": "Activates if you gain Life Points",
+        "url": "https://yugipedia.com/wiki/Activates_if_you_gain_Life_Points"
+    },
+    {
+        "name": "Activates if you take battle damage",
+        "url": "https://yugipedia.com/wiki/Activates_if_you_take_battle_damage"
+    },
+    {
+        "name": "Activates if you take effect damage",
+        "url": "https://yugipedia.com/wiki/Activates_if_you_take_effect_damage"
+    },
+    {
+        "name": "Activates if your opponent adds a card to the hand",
+        "url": "https://yugipedia.com/wiki/Activates_if_your_opponent_adds_a_card_to_the_hand"
+    },
+    {
+        "name": "Activates if your opponent draws a card",
+        "url": "https://yugipedia.com/wiki/Activates_if_your_opponent_draws_a_card"
+    },
+    {
+        "name": "Activates if your opponent gains Life Points",
+        "url": "https://yugipedia.com/wiki/Activates_if_your_opponent_gains_Life_Points"
+    },
+    {
+        "name": "Activates if your opponent takes effect damage",
+        "url": "https://yugipedia.com/wiki/Activates_if_your_opponent_takes_effect_damage"
+    },
+    {
+        "name": "Activates upon attack declaration",
+        "url": "https://yugipedia.com/wiki/Activates_upon_attack_declaration"
+    },
+    {
+        "name": "Activates upon being flipped face-up",
+        "url": "https://yugipedia.com/wiki/Activates_upon_being_flipped_face-up"
+    },
+    {
+        "name": "Activates upon Flip Summon",
+        "url": "https://yugipedia.com/wiki/Activates_upon_Flip_Summon"
+    },
+    {
+        "name": "Activates upon Fusion Summon",
+        "url": "https://yugipedia.com/wiki/Activates_upon_Fusion_Summon"
+    },
+    {
+        "name": "Activates upon Link Summon",
+        "url": "https://yugipedia.com/wiki/Activates_upon_Link_Summon"
+    },
+    {
+        "name": "Activates upon Normal Summon",
+        "url": "https://yugipedia.com/wiki/Activates_upon_Normal_Summon"
+    },
+    {
+        "name": "Activates upon paying Life Points",
+        "url": "https://yugipedia.com/wiki/Activates_upon_paying_Life_Points"
+    },
+    {
+        "name": "Activates upon Pendulum Summon",
+        "url": "https://yugipedia.com/wiki/Activates_upon_Pendulum_Summon"
+    },
+    {
+        "name": "Activates upon Ritual Summon",
+        "url": "https://yugipedia.com/wiki/Activates_upon_Ritual_Summon"
+    },
+    {
+        "name": "Activates upon Set",
+        "url": "https://yugipedia.com/wiki/Activates_upon_Set"
+    },
+    {
+        "name": "Activates upon Special Summon",
+        "url": "https://yugipedia.com/wiki/Activates_upon_Special_Summon"
+    },
+    {
+        "name": "Activates upon Synchro Summon",
+        "url": "https://yugipedia.com/wiki/Activates_upon_Synchro_Summon"
+    },
+    {
+        "name": "Activates upon Tribute Summon",
+        "url": "https://yugipedia.com/wiki/Activates_upon_Tribute_Summon"
+    },
+    {
+        "name": "Activates upon Xyz Summon",
+        "url": "https://yugipedia.com/wiki/Activates_upon_Xyz_Summon"
+    },
+    {
+        "name": "Activates while banished",
+        "url": "https://yugipedia.com/wiki/Activates_while_banished"
+    },
+    {
+        "name": "Activation cannot be negated",
+        "url": "https://yugipedia.com/wiki/Activation_cannot_be_negated"
+    },
+    {
+        "name": "Adds banished cards to the hand",
+        "url": "https://yugipedia.com/wiki/Adds_banished_cards_to_the_hand"
+    },
+    {
+        "name": "Adds copies of itself to hand",
+        "url": "https://yugipedia.com/wiki/Adds_copies_of_itself_to_hand"
+    },
+    {
+        "name": "Adds excavated cards to the hand",
+        "url": "https://yugipedia.com/wiki/Adds_excavated_cards_to_the_hand"
+    },
+    {
+        "name": "Adds from Deck to Extra Deck",
+        "url": "https://yugipedia.com/wiki/Adds_from_Deck_to_Extra_Deck"
+    },
+    {
+        "name": "Adds from Deck to hand",
+        "url": "https://yugipedia.com/wiki/Adds_from_Deck_to_hand"
+    },
+    {
+        "name": "Adds from Extra Deck to hand",
+        "url": "https://yugipedia.com/wiki/Adds_from_Extra_Deck_to_hand"
+    },
+    {
+        "name": "Adds from field to Extra Deck",
+        "url": "https://yugipedia.com/wiki/Adds_from_field_to_Extra_Deck"
+    },
+    {
+        "name": "Adds from Graveyard to Extra Deck",
+        "url": "https://yugipedia.com/wiki/Adds_from_Graveyard_to_Extra_Deck"
+    },
+    {
+        "name": "Adds from Graveyard to hand",
+        "url": "https://yugipedia.com/wiki/Adds_from_Graveyard_to_hand"
+    },
+    {
+        "name": "Adds from hand to Extra Deck",
+        "url": "https://yugipedia.com/wiki/Adds_from_hand_to_Extra_Deck"
+    },
+    {
+        "name": "Adds from the bottom of the Deck to the hand",
+        "url": "https://yugipedia.com/wiki/Adds_from_the_bottom_of_the_Deck_to_the_hand"
+    },
+    {
+        "name": "Adds from your Deck to your opponent's hand",
+        "url": "https://yugipedia.com/wiki/Adds_from_your_Deck_to_your_opponent%27s_hand"
+    },
+    {
+        "name": "Adds from your hand to your opponent's hand",
+        "url": "https://yugipedia.com/wiki/Adds_from_your_hand_to_your_opponent%27s_hand"
+    },
+    {
+        "name": "Adds from your opponent's Deck to your hand",
+        "url": "https://yugipedia.com/wiki/Adds_from_your_opponent%27s_Deck_to_your_hand"
+    },
+    {
+        "name": "Adds from your opponent's Deck to your opponent's hand",
+        "url": "https://yugipedia.com/wiki/Adds_from_your_opponent%27s_Deck_to_your_opponent%27s_hand"
+    },
+    {
+        "name": "Adds from your opponent's Graveyard to your hand",
+        "url": "https://yugipedia.com/wiki/Adds_from_your_opponent%27s_Graveyard_to_your_hand"
+    },
+    {
+        "name": "Adds from your opponent's hand to your hand",
+        "url": "https://yugipedia.com/wiki/Adds_from_your_opponent%27s_hand_to_your_hand"
+    },
+    {
+        "name": "Adds itself from field to Extra Deck",
+        "url": "https://yugipedia.com/wiki/Adds_itself_from_field_to_Extra_Deck"
+    },
+    {
+        "name": "Adds Xyz Materials to the hand",
+        "url": "https://yugipedia.com/wiki/Adds_Xyz_Materials_to_the_hand"
+    },
+    {
+        "name": "Adds your banished cards to your opponent's hand",
+        "url": "https://yugipedia.com/wiki/Adds_your_banished_cards_to_your_opponent%27s_hand"
+    },
+    {
+        "name": "Adds your opponent's banished cards to your hand",
+        "url": "https://yugipedia.com/wiki/Adds_your_opponent%27s_banished_cards_to_your_hand"
+    },
+    {
+        "name": "All monsters gain ATK",
+        "url": "https://yugipedia.com/wiki/All_monsters_gain_ATK"
+    },
+    {
+        "name": "All monsters gain DEF",
+        "url": "https://yugipedia.com/wiki/All_monsters_gain_DEF"
+    },
+    {
+        "name": "All monsters gain Levels",
+        "url": "https://yugipedia.com/wiki/All_monsters_gain_Levels"
+    },
+    {
+        "name": "All monsters lose ATK",
+        "url": "https://yugipedia.com/wiki/All_monsters_lose_ATK"
+    },
+    {
+        "name": "All monsters lose DEF",
+        "url": "https://yugipedia.com/wiki/All_monsters_lose_DEF"
+    },
+    {
+        "name": "All monsters lose Levels",
+        "url": "https://yugipedia.com/wiki/All_monsters_lose_Levels"
+    },
+    {
+        "name": "Allows activation of Quick-Play Spell Cards the turn they were Set",
+        "url": "https://yugipedia.com/wiki/Allows_activation_of_Quick-Play_Spell_Cards_the_turn_they_were_Set"
+    },
+    {
+        "name": "Allows activation of Spell Cards from the player's hand during the opponent's turn",
+        "url": "https://yugipedia.com/wiki/Allows_activation_of_Spell_Cards_from_the_player%27s_hand_during_the_opponent%27s_turn"
+    },
+    {
+        "name": "Allows activation of Trap Cards from your hand",
+        "url": "https://yugipedia.com/wiki/Allows_activation_of_Trap_Cards_from_your_hand"
+    },
+    {
+        "name": "Allows activation of Trap Cards the turn they were Set",
+        "url": "https://yugipedia.com/wiki/Allows_activation_of_Trap_Cards_the_turn_they_were_Set"
+    },
+    {
+        "name": "Allows direct attacks",
+        "url": "https://yugipedia.com/wiki/Allows_direct_attacks"
+    },
+    {
+        "name": "Allows face-up cards in Main Deck",
+        "url": "https://yugipedia.com/wiki/Allows_face-up_cards_in_Main_Deck"
+    },
+    {
+        "name": "Allows multiple attacks",
+        "url": "https://yugipedia.com/wiki/Allows_multiple_attacks"
+    },
+    {
+        "name": "Allows multiple attacks on monsters",
+        "url": "https://yugipedia.com/wiki/Allows_multiple_attacks_on_monsters"
+    },
+    {
+        "name": "Allows multiple Normal Summons",
+        "url": "https://yugipedia.com/wiki/Allows_multiple_Normal_Summons"
+    },
+    {
+        "name": "Allows multiple Pendulum Summons",
+        "url": "https://yugipedia.com/wiki/Allows_multiple_Pendulum_Summons"
+    },
+    {
+        "name": "Allows multiple Tribute Summons",
+        "url": "https://yugipedia.com/wiki/Allows_multiple_Tribute_Summons"
+    },
+    {
+        "name": "Alters Summoning conditions",
+        "url": "https://yugipedia.com/wiki/Alters_Summoning_conditions"
+    },
+    {
+        "name": "Applies DEF for damage calculation",
+        "url": "https://yugipedia.com/wiki/Applies_DEF_for_damage_calculation"
+    },
+    {
+        "name": "Applies effect if other Pendulum Zone is not occupied by specific card",
+        "url": "https://yugipedia.com/wiki/Applies_effect_if_other_Pendulum_Zone_is_not_occupied_by_specific_card"
+    },
+    {
+        "name": "Applies effect if other Pendulum Zone is unoccupied",
+        "url": "https://yugipedia.com/wiki/Applies_effect_if_other_Pendulum_Zone_is_unoccupied"
+    },
+    {
+        "name": "Applies effect when Tributed for Tribute Summon",
+        "url": "https://yugipedia.com/wiki/Applies_effect_when_Tributed_for_Tribute_Summon"
+    },
+    {
+        "name": "Applies effect when used as Fusion Material",
+        "url": "https://yugipedia.com/wiki/Applies_effect_when_used_as_Fusion_Material"
+    },
+    {
+        "name": "Applies effect when used as Link Material",
+        "url": "https://yugipedia.com/wiki/Applies_effect_when_used_as_Link_Material"
+    },
+    {
+        "name": "Applies effect when used as Synchro Material",
+        "url": "https://yugipedia.com/wiki/Applies_effect_when_used_as_Synchro_Material"
+    },
+    {
+        "name": "Applies effect when used as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Applies_effect_when_used_as_Xyz_Material"
+    },
+    {
+        "name": "Applies effect when used for a Ritual Summon",
+        "url": "https://yugipedia.com/wiki/Applies_effect_when_used_for_a_Ritual_Summon"
+    },
+    {
+        "name": "Applies effect while attached as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Applies_effect_while_attached_as_Xyz_Material"
+    },
+    {
+        "name": "Applies effect while equipped with an Equip Card",
+        "url": "https://yugipedia.com/wiki/Applies_effect_while_equipped_with_an_Equip_Card"
+    },
+    {
+        "name": "Applies effects if Link Summoned using specific Link Material",
+        "url": "https://yugipedia.com/wiki/Applies_effects_if_Link_Summoned_using_specific_Link_Material"
+    },
+    {
+        "name": "Applies effects if Special Summoned using specific Fusion Material",
+        "url": "https://yugipedia.com/wiki/Applies_effects_if_Special_Summoned_using_specific_Fusion_Material"
+    },
+    {
+        "name": "Applies effects if specific Xyz Material is attached",
+        "url": "https://yugipedia.com/wiki/Applies_effects_if_specific_Xyz_Material_is_attached"
+    },
+    {
+        "name": "Applies effects if Xyz Material is attached",
+        "url": "https://yugipedia.com/wiki/Applies_effects_if_Xyz_Material_is_attached"
+    },
+    {
+        "name": "Applies effects if Xyz Summoned using specific Xyz Material",
+        "url": "https://yugipedia.com/wiki/Applies_effects_if_Xyz_Summoned_using_specific_Xyz_Material"
+    },
+    {
+        "name": "At the end of the Battle Phase",
+        "url": "https://yugipedia.com/wiki/At_the_end_of_the_Battle_Phase"
+    },
+    {
+        "name": "At the start of Main Phase 1",
+        "url": "https://yugipedia.com/wiki/At_the_start_of_Main_Phase_1"
+    },
+    {
+        "name": "At the start of Main Phase 2",
+        "url": "https://yugipedia.com/wiki/At_the_start_of_Main_Phase_2"
+    },
+    {
+        "name": "At the start of the Battle Phase",
+        "url": "https://yugipedia.com/wiki/At_the_start_of_the_Battle_Phase"
+    },
+    {
+        "name": "Attaches as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches from your Deck as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_from_your_Deck_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches from your Extra Deck as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_from_your_Extra_Deck_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches from your field as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_from_your_field_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches from your Graveyard as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_from_your_Graveyard_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches from your hand as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_from_your_hand_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches from your opponent's Deck as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_from_your_opponent%27s_Deck_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches from your opponent's Extra Deck as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_from_your_opponent%27s_Extra_Deck_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches from your opponent's field as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_from_your_opponent%27s_field_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches from your opponent's Graveyard as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_from_your_opponent%27s_Graveyard_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches from your opponent's hand as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_from_your_opponent%27s_hand_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches itself from your field as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_itself_from_your_field_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches itself from your Graveyard as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_itself_from_your_Graveyard_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches itself from your hand as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_itself_from_your_hand_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches itself from your Pendulum Zone as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_itself_from_your_Pendulum_Zone_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches your banished cards as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_your_banished_cards_as_Xyz_Material"
+    },
+    {
+        "name": "Attaches your opponent's banished cards as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Attaches_your_opponent%27s_banished_cards_as_Xyz_Material"
+    },
+    {
+        "name": "Banishes battling monster after damage calculation",
+        "url": "https://yugipedia.com/wiki/Banishes_battling_monster_after_damage_calculation"
+    },
+    {
+        "name": "Banishes battling monster at the end of the Damage Step",
+        "url": "https://yugipedia.com/wiki/Banishes_battling_monster_at_the_end_of_the_Damage_Step"
+    },
+    {
+        "name": "Banishes battling monster at the start of the Damage Step",
+        "url": "https://yugipedia.com/wiki/Banishes_battling_monster_at_the_start_of_the_Damage_Step"
+    },
+    {
+        "name": "Banishes cards that would be returned to the Deck",
+        "url": "https://yugipedia.com/wiki/Banishes_cards_that_would_be_returned_to_the_Deck"
+    },
+    {
+        "name": "Banishes cards that would be returned to the hand",
+        "url": "https://yugipedia.com/wiki/Banishes_cards_that_would_be_returned_to_the_hand"
+    },
+    {
+        "name": "Banishes cards that would be sent to the Graveyard",
+        "url": "https://yugipedia.com/wiki/Banishes_cards_that_would_be_sent_to_the_Graveyard"
+    },
+    {
+        "name": "Banishes cards when it leaves the field",
+        "url": "https://yugipedia.com/wiki/Banishes_cards_when_it_leaves_the_field"
+    },
+    {
+        "name": "Banishes equipped",
+        "url": "https://yugipedia.com/wiki/Banishes_equipped"
+    },
+    {
+        "name": "Banishes excavated cards",
+        "url": "https://yugipedia.com/wiki/Banishes_excavated_cards"
+    },
+    {
+        "name": "Banishes face-down",
+        "url": "https://yugipedia.com/wiki/Banishes_face-down"
+    },
+    {
+        "name": "Banishes for cost",
+        "url": "https://yugipedia.com/wiki/Banishes_for_cost"
+    },
+    {
+        "name": "Banishes from Deck",
+        "url": "https://yugipedia.com/wiki/Banishes_from_Deck"
+    },
+    {
+        "name": "Banishes from Deck for cost",
+        "url": "https://yugipedia.com/wiki/Banishes_from_Deck_for_cost"
+    },
+    {
+        "name": "Banishes from Deck for Summon",
+        "url": "https://yugipedia.com/wiki/Banishes_from_Deck_for_Summon"
+    },
+    {
+        "name": "Banishes from Extra Deck",
+        "url": "https://yugipedia.com/wiki/Banishes_from_Extra_Deck"
+    },
+    {
+        "name": "Banishes from Extra Deck for cost",
+        "url": "https://yugipedia.com/wiki/Banishes_from_Extra_Deck_for_cost"
+    },
+    {
+        "name": "Banishes from Extra Deck for Summon",
+        "url": "https://yugipedia.com/wiki/Banishes_from_Extra_Deck_for_Summon"
+    },
+    {
+        "name": "Banishes from field",
+        "url": "https://yugipedia.com/wiki/Banishes_from_field"
+    },
+    {
+        "name": "Banishes from field for cost",
+        "url": "https://yugipedia.com/wiki/Banishes_from_field_for_cost"
+    },
+    {
+        "name": "Banishes from field for Summon",
+        "url": "https://yugipedia.com/wiki/Banishes_from_field_for_Summon"
+    },
+    {
+        "name": "Banishes from Graveyard",
+        "url": "https://yugipedia.com/wiki/Banishes_from_Graveyard"
+    },
+    {
+        "name": "Banishes from Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Banishes_from_Graveyard_for_cost"
+    },
+    {
+        "name": "Banishes from Graveyard for Summon",
+        "url": "https://yugipedia.com/wiki/Banishes_from_Graveyard_for_Summon"
+    },
+    {
+        "name": "Banishes from hand",
+        "url": "https://yugipedia.com/wiki/Banishes_from_hand"
+    },
+    {
+        "name": "Banishes from hand for cost",
+        "url": "https://yugipedia.com/wiki/Banishes_from_hand_for_cost"
+    },
+    {
+        "name": "Banishes from hand for Summon",
+        "url": "https://yugipedia.com/wiki/Banishes_from_hand_for_Summon"
+    },
+    {
+        "name": "Banishes from the top of your Deck",
+        "url": "https://yugipedia.com/wiki/Banishes_from_the_top_of_your_Deck"
+    },
+    {
+        "name": "Banishes from the top of your Deck for cost",
+        "url": "https://yugipedia.com/wiki/Banishes_from_the_top_of_your_Deck_for_cost"
+    },
+    {
+        "name": "Banishes from the top of your opponent's Deck",
+        "url": "https://yugipedia.com/wiki/Banishes_from_the_top_of_your_opponent%27s_Deck"
+    },
+    {
+        "name": "Banishes from your Deck",
+        "url": "https://yugipedia.com/wiki/Banishes_from_your_Deck"
+    },
+    {
+        "name": "Banishes from your Extra Deck",
+        "url": "https://yugipedia.com/wiki/Banishes_from_your_Extra_Deck"
+    },
+    {
+        "name": "Banishes from your field",
+        "url": "https://yugipedia.com/wiki/Banishes_from_your_field"
+    },
+    {
+        "name": "Banishes from your Graveyard",
+        "url": "https://yugipedia.com/wiki/Banishes_from_your_Graveyard"
+    },
+    {
+        "name": "Banishes from your hand",
+        "url": "https://yugipedia.com/wiki/Banishes_from_your_hand"
+    },
+    {
+        "name": "Banishes from your opponent's Deck",
+        "url": "https://yugipedia.com/wiki/Banishes_from_your_opponent%27s_Deck"
+    },
+    {
+        "name": "Banishes from your opponent's Extra Deck",
+        "url": "https://yugipedia.com/wiki/Banishes_from_your_opponent%27s_Extra_Deck"
+    },
+    {
+        "name": "Banishes from your opponent's field",
+        "url": "https://yugipedia.com/wiki/Banishes_from_your_opponent%27s_field"
+    },
+    {
+        "name": "Banishes from your opponent's Graveyard",
+        "url": "https://yugipedia.com/wiki/Banishes_from_your_opponent%27s_Graveyard"
+    },
+    {
+        "name": "Banishes from your opponent's hand",
+        "url": "https://yugipedia.com/wiki/Banishes_from_your_opponent%27s_hand"
+    },
+    {
+        "name": "Banishes Fusion Materials for Contact Fusion",
+        "url": "https://yugipedia.com/wiki/Banishes_Fusion_Materials_for_Contact_Fusion"
+    },
+    {
+        "name": "Banishes Fusion Materials used in a Fusion Summon",
+        "url": "https://yugipedia.com/wiki/Banishes_Fusion_Materials_used_in_a_Fusion_Summon"
+    },
+    {
+        "name": "Banishes itself",
+        "url": "https://yugipedia.com/wiki/Banishes_itself"
+    },
+    {
+        "name": "Banishes itself from Deck",
+        "url": "https://yugipedia.com/wiki/Banishes_itself_from_Deck"
+    },
+    {
+        "name": "Banishes itself from Extra Deck",
+        "url": "https://yugipedia.com/wiki/Banishes_itself_from_Extra_Deck"
+    },
+    {
+        "name": "Banishes itself from field",
+        "url": "https://yugipedia.com/wiki/Banishes_itself_from_field"
+    },
+    {
+        "name": "Banishes itself from field for cost",
+        "url": "https://yugipedia.com/wiki/Banishes_itself_from_field_for_cost"
+    },
+    {
+        "name": "Banishes itself from Graveyard",
+        "url": "https://yugipedia.com/wiki/Banishes_itself_from_Graveyard"
+    },
+    {
+        "name": "Banishes itself from Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Banishes_itself_from_Graveyard_for_cost"
+    },
+    {
+        "name": "Banishes itself from hand",
+        "url": "https://yugipedia.com/wiki/Banishes_itself_from_hand"
+    },
+    {
+        "name": "Banishes itself from hand for cost",
+        "url": "https://yugipedia.com/wiki/Banishes_itself_from_hand_for_cost"
+    },
+    {
+        "name": "Banishes itself from Pendulum Zone",
+        "url": "https://yugipedia.com/wiki/Banishes_itself_from_Pendulum_Zone"
+    },
+    {
+        "name": "Banishes itself when it leaves the field",
+        "url": "https://yugipedia.com/wiki/Banishes_itself_when_it_leaves_the_field"
+    },
+    {
+        "name": "Banishes monsters destroyed by battle",
+        "url": "https://yugipedia.com/wiki/Banishes_monsters_destroyed_by_battle"
+    },
+    {
+        "name": "Banishes monsters from Graveyard for Ritual Summon",
+        "url": "https://yugipedia.com/wiki/Banishes_monsters_from_Graveyard_for_Ritual_Summon"
+    },
+    {
+        "name": "Banishes monsters from Graveyard for Synchro Summon",
+        "url": "https://yugipedia.com/wiki/Banishes_monsters_from_Graveyard_for_Synchro_Summon"
+    },
+    {
+        "name": "Banishes negated activations",
+        "url": "https://yugipedia.com/wiki/Banishes_negated_activations"
+    },
+    {
+        "name": "Banishes negated Summons",
+        "url": "https://yugipedia.com/wiki/Banishes_negated_Summons"
+    },
+    {
+        "name": "Banishes other cards when they leave the field",
+        "url": "https://yugipedia.com/wiki/Banishes_other_cards_when_they_leave_the_field"
+    },
+    {
+        "name": "Banishes Xyz Materials",
+        "url": "https://yugipedia.com/wiki/Banishes_Xyz_Materials"
+    },
+    {
+        "name": "Can always be Special Summoned",
+        "url": "https://yugipedia.com/wiki/Can_always_be_Special_Summoned"
+    },
+    {
+        "name": "Can be activated during either player's turn",
+        "url": "https://yugipedia.com/wiki/Can_be_activated_during_either_player%27s_turn"
+    },
+    {
+        "name": "Can be activated from the hand",
+        "url": "https://yugipedia.com/wiki/Can_be_activated_from_the_hand"
+    },
+    {
+        "name": "Can be activated the turn it was Set",
+        "url": "https://yugipedia.com/wiki/Can_be_activated_the_turn_it_was_Set"
+    },
+    {
+        "name": "Can be Fusion Summoned",
+        "url": "https://yugipedia.com/wiki/Can_be_Fusion_Summoned"
+    },
+    {
+        "name": "Can be Link Summoned",
+        "url": "https://yugipedia.com/wiki/Can_be_Link_Summoned"
+    },
+    {
+        "name": "Can be Normal Set",
+        "url": "https://yugipedia.com/wiki/Can_be_Normal_Set"
+    },
+    {
+        "name": "Can be Normal Summoned",
+        "url": "https://yugipedia.com/wiki/Can_be_Normal_Summoned"
+    },
+    {
+        "name": "Can be Ritual Summoned",
+        "url": "https://yugipedia.com/wiki/Can_be_Ritual_Summoned"
+    },
+    {
+        "name": "Can be Special Summoned",
+        "url": "https://yugipedia.com/wiki/Can_be_Special_Summoned"
+    },
+    {
+        "name": "Can be Special Summoned either by Fusion Summon or Contact Fusion",
+        "url": "https://yugipedia.com/wiki/Can_be_Special_Summoned_either_by_Fusion_Summon_or_Contact_Fusion"
+    },
+    {
+        "name": "Can be Special Summoned either by Synchro Summon or by its own condition",
+        "url": "https://yugipedia.com/wiki/Can_be_Special_Summoned_either_by_Synchro_Summon_or_by_its_own_condition"
+    },
+    {
+        "name": "Can be Synchro Summoned",
+        "url": "https://yugipedia.com/wiki/Can_be_Synchro_Summoned"
+    },
+    {
+        "name": "Can be used as a Fusion Material",
+        "url": "https://yugipedia.com/wiki/Can_be_used_as_a_Fusion_Material"
+    },
+    {
+        "name": "Can be used as a Link Material",
+        "url": "https://yugipedia.com/wiki/Can_be_used_as_a_Link_Material"
+    },
+    {
+        "name": "Can be used as a Synchro Material",
+        "url": "https://yugipedia.com/wiki/Can_be_used_as_a_Synchro_Material"
+    },
+    {
+        "name": "Can be used as an Xyz Material",
+        "url": "https://yugipedia.com/wiki/Can_be_used_as_an_Xyz_Material"
+    },
+    {
+        "name": "Can be used as entire Ritual Summon requirement",
+        "url": "https://yugipedia.com/wiki/Can_be_used_as_entire_Ritual_Summon_requirement"
+    },
+    {
+        "name": "Can be Xyz Summoned",
+        "url": "https://yugipedia.com/wiki/Can_be_Xyz_Summoned"
+    },
+    {
+        "name": "Can make multiple attacks on monsters",
+        "url": "https://yugipedia.com/wiki/Can_make_multiple_attacks_on_monsters"
+    },
+    {
+        "name": "Can only attack certain monsters",
+        "url": "https://yugipedia.com/wiki/Can_only_attack_certain_monsters"
+    },
+    {
+        "name": "Can only use certain Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Can_only_use_certain_Fusion_Materials"
+    },
+    {
+        "name": "Can only use certain Synchro Materials",
+        "url": "https://yugipedia.com/wiki/Can_only_use_certain_Synchro_Materials"
+    },
+    {
+        "name": "Can only use certain Xyz Materials",
+        "url": "https://yugipedia.com/wiki/Can_only_use_certain_Xyz_Materials"
+    },
+    {
+        "name": "Cannot attack",
+        "url": "https://yugipedia.com/wiki/Cannot_attack"
+    },
+    {
+        "name": "Cannot attack directly",
+        "url": "https://yugipedia.com/wiki/Cannot_attack_directly"
+    },
+    {
+        "name": "Cannot attack the turn it is Summoned",
+        "url": "https://yugipedia.com/wiki/Cannot_attack_the_turn_it_is_Summoned"
+    },
+    {
+        "name": "Cannot be activated",
+        "url": "https://yugipedia.com/wiki/Cannot_be_activated"
+    },
+    {
+        "name": "Cannot be banished",
+        "url": "https://yugipedia.com/wiki/Cannot_be_banished"
+    },
+    {
+        "name": "Cannot be destroyed by battle",
+        "url": "https://yugipedia.com/wiki/Cannot_be_destroyed_by_battle"
+    },
+    {
+        "name": "Cannot be destroyed by card effects",
+        "url": "https://yugipedia.com/wiki/Cannot_be_destroyed_by_card_effects"
+    },
+    {
+        "name": "Cannot be Flip Summoned",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Flip_Summoned"
+    },
+    {
+        "name": "Cannot be Fusion Summoned",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Fusion_Summoned"
+    },
+    {
+        "name": "Cannot be Link Summoned",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Link_Summoned"
+    },
+    {
+        "name": "Cannot be Normal Set",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Normal_Set"
+    },
+    {
+        "name": "Cannot be Normal Summoned",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Normal_Summoned"
+    },
+    {
+        "name": "Cannot be Special Summoned",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Special_Summoned"
+    },
+    {
+        "name": "Cannot be Special Summoned except by a specific method",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Special_Summoned_except_by_a_specific_method"
+    },
+    {
+        "name": "Cannot be Special Summoned from the Deck",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Special_Summoned_from_the_Deck"
+    },
+    {
+        "name": "Cannot be Special Summoned from the Extra Deck",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Special_Summoned_from_the_Extra_Deck"
+    },
+    {
+        "name": "Cannot be Special Summoned from the Graveyard",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Special_Summoned_from_the_Graveyard"
+    },
+    {
+        "name": "Cannot be Special Summoned from the hand",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Special_Summoned_from_the_hand"
+    },
+    {
+        "name": "Cannot be Special Summoned while banished",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Special_Summoned_while_banished"
+    },
+    {
+        "name": "Cannot be Synchro Summoned",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Synchro_Summoned"
+    },
+    {
+        "name": "Cannot be targeted by card effects",
+        "url": "https://yugipedia.com/wiki/Cannot_be_targeted_by_card_effects"
+    },
+    {
+        "name": "Cannot be targeted for attacks",
+        "url": "https://yugipedia.com/wiki/Cannot_be_targeted_for_attacks"
+    },
+    {
+        "name": "Cannot be Tributed",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Tributed"
+    },
+    {
+        "name": "Cannot be Tributed for a Tribute Summon",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Tributed_for_a_Tribute_Summon"
+    },
+    {
+        "name": "Cannot be used as a Fusion Material",
+        "url": "https://yugipedia.com/wiki/Cannot_be_used_as_a_Fusion_Material"
+    },
+    {
+        "name": "Cannot be used as a Link Material",
+        "url": "https://yugipedia.com/wiki/Cannot_be_used_as_a_Link_Material"
+    },
+    {
+        "name": "Cannot be used as a Synchro Material",
+        "url": "https://yugipedia.com/wiki/Cannot_be_used_as_a_Synchro_Material"
+    },
+    {
+        "name": "Cannot be used as an Xyz Material",
+        "url": "https://yugipedia.com/wiki/Cannot_be_used_as_an_Xyz_Material"
+    },
+    {
+        "name": "Cannot be Xyz Summoned",
+        "url": "https://yugipedia.com/wiki/Cannot_be_Xyz_Summoned"
+    },
+    {
+        "name": "Cannot change possession",
+        "url": "https://yugipedia.com/wiki/Cannot_change_possession"
+    },
+    {
+        "name": "Cannot conduct Battle Phase",
+        "url": "https://yugipedia.com/wiki/Cannot_conduct_Battle_Phase"
+    },
+    {
+        "name": "Cannot destroy by battle",
+        "url": "https://yugipedia.com/wiki/Cannot_destroy_by_battle"
+    },
+    {
+        "name": "Chain Effects",
+        "url": "https://yugipedia.com/wiki/Chain_Effects"
+    },
+    {
+        "name": "Changes ATK value",
+        "url": "https://yugipedia.com/wiki/Changes_ATK_value"
+    },
+    {
+        "name": "Changes ATK value of equipped",
+        "url": "https://yugipedia.com/wiki/Changes_ATK_value_of_equipped"
+    },
+    {
+        "name": "Changes attack targets",
+        "url": "https://yugipedia.com/wiki/Changes_attack_targets"
+    },
+    {
+        "name": "Changes Attribute",
+        "url": "https://yugipedia.com/wiki/Changes_Attribute"
+    },
+    {
+        "name": "Changes Attributes in the Graveyard",
+        "url": "https://yugipedia.com/wiki/Changes_Attributes_in_the_Graveyard"
+    },
+    {
+        "name": "Changes battle damage",
+        "url": "https://yugipedia.com/wiki/Changes_battle_damage"
+    },
+    {
+        "name": "Changes battle positions",
+        "url": "https://yugipedia.com/wiki/Changes_battle_positions"
+    },
+    {
+        "name": "Changes battle positions for cost",
+        "url": "https://yugipedia.com/wiki/Changes_battle_positions_for_cost"
+    },
+    {
+        "name": "Changes card names",
+        "url": "https://yugipedia.com/wiki/Changes_card_names"
+    },
+    {
+        "name": "Changes coin toss result",
+        "url": "https://yugipedia.com/wiki/Changes_coin_toss_result"
+    },
+    {
+        "name": "Changes control",
+        "url": "https://yugipedia.com/wiki/Changes_control"
+    },
+    {
+        "name": "Changes cost",
+        "url": "https://yugipedia.com/wiki/Changes_cost"
+    },
+    {
+        "name": "Changes Deck order",
+        "url": "https://yugipedia.com/wiki/Changes_Deck_order"
+    },
+    {
+        "name": "Changes Deck order for cost",
+        "url": "https://yugipedia.com/wiki/Changes_Deck_order_for_cost"
+    },
+    {
+        "name": "Changes DEF value",
+        "url": "https://yugipedia.com/wiki/Changes_DEF_value"
+    },
+    {
+        "name": "Changes DEF value of equipped",
+        "url": "https://yugipedia.com/wiki/Changes_DEF_value_of_equipped"
+    },
+    {
+        "name": "Changes die roll result",
+        "url": "https://yugipedia.com/wiki/Changes_die_roll_result"
+    },
+    {
+        "name": "Changes Gemini monsters into Effect Monsters",
+        "url": "https://yugipedia.com/wiki/Changes_Gemini_monsters_into_Effect_Monsters"
+    },
+    {
+        "name": "Changes Level of equipped",
+        "url": "https://yugipedia.com/wiki/Changes_Level_of_equipped"
+    },
+    {
+        "name": "Changes Levels",
+        "url": "https://yugipedia.com/wiki/Changes_Levels"
+    },
+    {
+        "name": "Changes Monster Zone",
+        "url": "https://yugipedia.com/wiki/Changes_Monster_Zone"
+    },
+    {
+        "name": "Changes original ATK",
+        "url": "https://yugipedia.com/wiki/Changes_original_ATK"
+    },
+    {
+        "name": "Changes original DEF",
+        "url": "https://yugipedia.com/wiki/Changes_original_DEF"
+    },
+    {
+        "name": "Changes own ATK value",
+        "url": "https://yugipedia.com/wiki/Changes_own_ATK_value"
+    },
+    {
+        "name": "Changes own Attribute",
+        "url": "https://yugipedia.com/wiki/Changes_own_Attribute"
+    },
+    {
+        "name": "Changes own battle position",
+        "url": "https://yugipedia.com/wiki/Changes_own_battle_position"
+    },
+    {
+        "name": "Changes own DEF value",
+        "url": "https://yugipedia.com/wiki/Changes_own_DEF_value"
+    },
+    {
+        "name": "Changes own Level",
+        "url": "https://yugipedia.com/wiki/Changes_own_Level"
+    },
+    {
+        "name": "Changes own name",
+        "url": "https://yugipedia.com/wiki/Changes_own_name"
+    },
+    {
+        "name": "Changes own name while in the Deck",
+        "url": "https://yugipedia.com/wiki/Changes_own_name_while_in_the_Deck"
+    },
+    {
+        "name": "Changes own name while in the GY",
+        "url": "https://yugipedia.com/wiki/Changes_own_name_while_in_the_GY"
+    },
+    {
+        "name": "Changes own name while in the hand",
+        "url": "https://yugipedia.com/wiki/Changes_own_name_while_in_the_hand"
+    },
+    {
+        "name": "Changes own name while on the field",
+        "url": "https://yugipedia.com/wiki/Changes_own_name_while_on_the_field"
+    },
+    {
+        "name": "Changes own Pendulum Scale",
+        "url": "https://yugipedia.com/wiki/Changes_own_Pendulum_Scale"
+    },
+    {
+        "name": "Changes own Type",
+        "url": "https://yugipedia.com/wiki/Changes_own_Type"
+    },
+    {
+        "name": "Changes Pendulum Scales",
+        "url": "https://yugipedia.com/wiki/Changes_Pendulum_Scales"
+    },
+    {
+        "name": "Changes Ranks",
+        "url": "https://yugipedia.com/wiki/Changes_Ranks"
+    },
+    {
+        "name": "Changes the opponent's Deck order",
+        "url": "https://yugipedia.com/wiki/Changes_the_opponent%27s_Deck_order"
+    },
+    {
+        "name": "Changes the player's Deck order",
+        "url": "https://yugipedia.com/wiki/Changes_the_player%27s_Deck_order"
+    },
+    {
+        "name": "Changes the targets of monster effects",
+        "url": "https://yugipedia.com/wiki/Changes_the_targets_of_monster_effects"
+    },
+    {
+        "name": "Changes the targets of Spell Cards",
+        "url": "https://yugipedia.com/wiki/Changes_the_targets_of_Spell_Cards"
+    },
+    {
+        "name": "Changes the targets of Trap Cards",
+        "url": "https://yugipedia.com/wiki/Changes_the_targets_of_Trap_Cards"
+    },
+    {
+        "name": "Changes Type",
+        "url": "https://yugipedia.com/wiki/Changes_Type"
+    },
+    {
+        "name": "Changes Types in the Graveyard",
+        "url": "https://yugipedia.com/wiki/Changes_Types_in_the_Graveyard"
+    },
+    {
+        "name": "Changes your Life Points",
+        "url": "https://yugipedia.com/wiki/Changes_your_Life_Points"
+    },
+    {
+        "name": "Changes your opponent's Life Points",
+        "url": "https://yugipedia.com/wiki/Changes_your_opponent%27s_Life_Points"
+    },
+    {
+        "name": "Chooses your opponent's attack targets",
+        "url": "https://yugipedia.com/wiki/Chooses_your_opponent%27s_attack_targets"
+    },
+    {
+        "name": "Coin toss",
+        "url": "https://yugipedia.com/wiki/Coin_toss"
+    },
+    {
+        "name": "Conducts battle between your opponent's monsters",
+        "url": "https://yugipedia.com/wiki/Conducts_battle_between_your_opponent%27s_monsters"
+    },
+    {
+        "name": "Conducts damage calculation",
+        "url": "https://yugipedia.com/wiki/Conducts_damage_calculation"
+    },
+    {
+        "name": "Conducts multiple Battle Phases",
+        "url": "https://yugipedia.com/wiki/Conducts_multiple_Battle_Phases"
+    },
+    {
+        "name": "Contact Fusion",
+        "url": "https://yugipedia.com/wiki/Contact_Fusion"
+    },
+    {
+        "name": "Contact Fusion without listed Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Contact_Fusion_without_listed_Fusion_Materials"
+    },
+    {
+        "name": "Control only one",
+        "url": "https://yugipedia.com/wiki/Control_only_one"
+    },
+    {
+        "name": "Converts damage to LP gain",
+        "url": "https://yugipedia.com/wiki/Converts_damage_to_LP_gain"
+    },
+    {
+        "name": "Converts LP gain into damage",
+        "url": "https://yugipedia.com/wiki/Converts_LP_gain_into_damage"
+    },
+    {
+        "name": "Copies effects",
+        "url": "https://yugipedia.com/wiki/Copies_effects"
+    },
+    {
+        "name": "Copies name",
+        "url": "https://yugipedia.com/wiki/Copies_name"
+    },
+    {
+        "name": "Damages you",
+        "url": "https://yugipedia.com/wiki/Damages_you"
+    },
+    {
+        "name": "Damages your opponent",
+        "url": "https://yugipedia.com/wiki/Damages_your_opponent"
+    },
+    {
+        "name": "Declares a card name",
+        "url": "https://yugipedia.com/wiki/Declares_a_card_name"
+    },
+    {
+        "name": "Declares a card type",
+        "url": "https://yugipedia.com/wiki/Declares_a_card_type"
+    },
+    {
+        "name": "Declares a Level",
+        "url": "https://yugipedia.com/wiki/Declares_a_Level"
+    },
+    {
+        "name": "Declares a monster card type",
+        "url": "https://yugipedia.com/wiki/Declares_a_monster_card_type"
+    },
+    {
+        "name": "Declares a Type",
+        "url": "https://yugipedia.com/wiki/Declares_a_Type"
+    },
+    {
+        "name": "Declares an Attribute",
+        "url": "https://yugipedia.com/wiki/Declares_an_Attribute"
+    },
+    {
+        "name": "Decreases your hand size limit",
+        "url": "https://yugipedia.com/wiki/Decreases_your_hand_size_limit"
+    },
+    {
+        "name": "Decreases your opponent's hand size limit",
+        "url": "https://yugipedia.com/wiki/Decreases_your_opponent%27s_hand_size_limit"
+    },
+    {
+        "name": "Defense Position attacker",
+        "url": "https://yugipedia.com/wiki/Defense_Position_attacker"
+    },
+    {
+        "name": "Destroys Attack Position Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_Attack_Position_Monster_Cards"
+    },
+    {
+        "name": "Destroys battling monster after damage calculation",
+        "url": "https://yugipedia.com/wiki/Destroys_battling_monster_after_damage_calculation"
+    },
+    {
+        "name": "Destroys battling monster at the end of the Damage Step",
+        "url": "https://yugipedia.com/wiki/Destroys_battling_monster_at_the_end_of_the_Damage_Step"
+    },
+    {
+        "name": "Destroys battling monster at the start of the Damage Step",
+        "url": "https://yugipedia.com/wiki/Destroys_battling_monster_at_the_start_of_the_Damage_Step"
+    },
+    {
+        "name": "Destroys battling monster before damage calculation",
+        "url": "https://yugipedia.com/wiki/Destroys_battling_monster_before_damage_calculation"
+    },
+    {
+        "name": "Destroys Defense Position Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_Defense_Position_Monster_Cards"
+    },
+    {
+        "name": "Destroys Equip Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_Equip_Cards"
+    },
+    {
+        "name": "Destroys equipped",
+        "url": "https://yugipedia.com/wiki/Destroys_equipped"
+    },
+    {
+        "name": "Destroys face-down Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_face-down_Monster_Cards"
+    },
+    {
+        "name": "Destroys face-down Spell Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_face-down_Spell_Cards"
+    },
+    {
+        "name": "Destroys face-down Trap Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_face-down_Trap_Cards"
+    },
+    {
+        "name": "Destroys face-up Attack Position Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_face-up_Attack_Position_Monster_Cards"
+    },
+    {
+        "name": "Destroys face-up Defense Position Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_face-up_Defense_Position_Monster_Cards"
+    },
+    {
+        "name": "Destroys face-up Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_face-up_Monster_Cards"
+    },
+    {
+        "name": "Destroys face-up Spell Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_face-up_Spell_Cards"
+    },
+    {
+        "name": "Destroys face-up Trap Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_face-up_Trap_Cards"
+    },
+    {
+        "name": "Destroys Flip Summoned monsters",
+        "url": "https://yugipedia.com/wiki/Destroys_Flip_Summoned_monsters"
+    },
+    {
+        "name": "Destroys Fusion Materials used in a Fusion Summon",
+        "url": "https://yugipedia.com/wiki/Destroys_Fusion_Materials_used_in_a_Fusion_Summon"
+    },
+    {
+        "name": "Destroys hand",
+        "url": "https://yugipedia.com/wiki/Destroys_hand"
+    },
+    {
+        "name": "Destroys itself",
+        "url": "https://yugipedia.com/wiki/Destroys_itself"
+    },
+    {
+        "name": "Destroys Main Deck",
+        "url": "https://yugipedia.com/wiki/Destroys_Main_Deck"
+    },
+    {
+        "name": "Destroys Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_Monster_Cards"
+    },
+    {
+        "name": "Destroys monsters for Ritual Summon",
+        "url": "https://yugipedia.com/wiki/Destroys_monsters_for_Ritual_Summon"
+    },
+    {
+        "name": "Destroys negated Summons",
+        "url": "https://yugipedia.com/wiki/Destroys_negated_Summons"
+    },
+    {
+        "name": "Destroys Normal Summoned monsters",
+        "url": "https://yugipedia.com/wiki/Destroys_Normal_Summoned_monsters"
+    },
+    {
+        "name": "Destroys Special Summoned monsters",
+        "url": "https://yugipedia.com/wiki/Destroys_Special_Summoned_monsters"
+    },
+    {
+        "name": "Destroys Spell Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_Spell_Cards"
+    },
+    {
+        "name": "Destroys Trap Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_Trap_Cards"
+    },
+    {
+        "name": "Destroys your Attack Position Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_Attack_Position_Monster_Cards"
+    },
+    {
+        "name": "Destroys your Defense Position Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_Defense_Position_Monster_Cards"
+    },
+    {
+        "name": "Destroys your face-down Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_face-down_Monster_Cards"
+    },
+    {
+        "name": "Destroys your face-down Spell Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_face-down_Spell_Cards"
+    },
+    {
+        "name": "Destroys your face-down Trap Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_face-down_Trap_Cards"
+    },
+    {
+        "name": "Destroys your face-up Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_face-up_Monster_Cards"
+    },
+    {
+        "name": "Destroys your face-up Spell Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_face-up_Spell_Cards"
+    },
+    {
+        "name": "Destroys your face-up Trap Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_face-up_Trap_Cards"
+    },
+    {
+        "name": "Destroys your Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_Monster_Cards"
+    },
+    {
+        "name": "Destroys your opponent's Attack Position Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_Attack_Position_Monster_Cards"
+    },
+    {
+        "name": "Destroys your opponent's Defense Position Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_Defense_Position_Monster_Cards"
+    },
+    {
+        "name": "Destroys your opponent's face-down Defense Position Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_face-down_Defense_Position_Monster_Cards"
+    },
+    {
+        "name": "Destroys your opponent's face-down Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_face-down_Monster_Cards"
+    },
+    {
+        "name": "Destroys your opponent's face-down Spell Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_face-down_Spell_Cards"
+    },
+    {
+        "name": "Destroys your opponent's face-down Trap Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_face-down_Trap_Cards"
+    },
+    {
+        "name": "Destroys your opponent's face-up Attack Position Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_face-up_Attack_Position_Monster_Cards"
+    },
+    {
+        "name": "Destroys your opponent's face-up Defense Position Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_face-up_Defense_Position_Monster_Cards"
+    },
+    {
+        "name": "Destroys your opponent's face-up Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_face-up_Monster_Cards"
+    },
+    {
+        "name": "Destroys your opponent's face-up Spell Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_face-up_Spell_Cards"
+    },
+    {
+        "name": "Destroys your opponent's face-up Trap Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_face-up_Trap_Cards"
+    },
+    {
+        "name": "Destroys your opponent's Monster Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_Monster_Cards"
+    },
+    {
+        "name": "Destroys your opponent's Spell Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_Spell_Cards"
+    },
+    {
+        "name": "Destroys your opponent's Trap Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_opponent%27s_Trap_Cards"
+    },
+    {
+        "name": "Destroys your Spell Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_Spell_Cards"
+    },
+    {
+        "name": "Destroys your Trap Cards",
+        "url": "https://yugipedia.com/wiki/Destroys_your_Trap_Cards"
+    },
+    {
+        "name": "Detaches multiple Xyz Materials as cost",
+        "url": "https://yugipedia.com/wiki/Detaches_multiple_Xyz_Materials_as_cost"
+    },
+    {
+        "name": "Detaches multiple Xyz Materials for effect",
+        "url": "https://yugipedia.com/wiki/Detaches_multiple_Xyz_Materials_for_effect"
+    },
+    {
+        "name": "Detaches Xyz Materials for cost",
+        "url": "https://yugipedia.com/wiki/Detaches_Xyz_Materials_for_cost"
+    },
+    {
+        "name": "Detaches Xyz Materials for effect",
+        "url": "https://yugipedia.com/wiki/Detaches_Xyz_Materials_for_effect"
+    },
+    {
+        "name": "Detaches Xyz Materials for Ritual Summon",
+        "url": "https://yugipedia.com/wiki/Detaches_Xyz_Materials_for_Ritual_Summon"
+    },
+    {
+        "name": "Detaches Xyz Materials for Special Summon",
+        "url": "https://yugipedia.com/wiki/Detaches_Xyz_Materials_for_Special_Summon"
+    },
+    {
+        "name": "Die roll",
+        "url": "https://yugipedia.com/wiki/Die_roll"
+    },
+    {
+        "name": "Direct attacker",
+        "url": "https://yugipedia.com/wiki/Direct_attacker"
+    },
+    {
+        "name": "Discards for cost",
+        "url": "https://yugipedia.com/wiki/Discards_for_cost"
+    },
+    {
+        "name": "Discards for Special Summon",
+        "url": "https://yugipedia.com/wiki/Discards_for_Special_Summon"
+    },
+    {
+        "name": "Discards Fusion Materials used in a Fusion Summon",
+        "url": "https://yugipedia.com/wiki/Discards_Fusion_Materials_used_in_a_Fusion_Summon"
+    },
+    {
+        "name": "Discards itself",
+        "url": "https://yugipedia.com/wiki/Discards_itself"
+    },
+    {
+        "name": "Discards itself as an effect",
+        "url": "https://yugipedia.com/wiki/Discards_itself_as_an_effect"
+    },
+    {
+        "name": "Discards itself for cost",
+        "url": "https://yugipedia.com/wiki/Discards_itself_for_cost"
+    },
+    {
+        "name": "Does not have effects which detach Xyz Materials for cost",
+        "url": "https://yugipedia.com/wiki/Does_not_have_effects_which_detach_Xyz_Materials_for_cost"
+    },
+    {
+        "name": "Does not prevent the opponent from attacking directly",
+        "url": "https://yugipedia.com/wiki/Does_not_prevent_the_opponent_from_attacking_directly"
+    },
+    {
+        "name": "Doubles ATK",
+        "url": "https://yugipedia.com/wiki/Doubles_ATK"
+    },
+    {
+        "name": "Doubles DEF",
+        "url": "https://yugipedia.com/wiki/Doubles_DEF"
+    },
+    {
+        "name": "Duel-lasting effects",
+        "url": "https://yugipedia.com/wiki/Duel-lasting_effects"
+    },
+    {
+        "name": "Effect that cannot be negated",
+        "url": "https://yugipedia.com/wiki/Effect_that_cannot_be_negated"
+    },
+    {
+        "name": "Ends the Battle Phase",
+        "url": "https://yugipedia.com/wiki/Ends_the_Battle_Phase"
+    },
+    {
+        "name": "Ends the Main Phase",
+        "url": "https://yugipedia.com/wiki/Ends_the_Main_Phase"
+    },
+    {
+        "name": "Ends your opponent's turn",
+        "url": "https://yugipedia.com/wiki/Ends_your_opponent%27s_turn"
+    },
+    {
+        "name": "Ends your turn",
+        "url": "https://yugipedia.com/wiki/Ends_your_turn"
+    },
+    {
+        "name": "Equal ATK and DEF",
+        "url": "https://yugipedia.com/wiki/Equal_ATK_and_DEF"
+    },
+    {
+        "name": "Equipped cannot be destroyed by battle",
+        "url": "https://yugipedia.com/wiki/Equipped_cannot_be_destroyed_by_battle"
+    },
+    {
+        "name": "Equipped cannot be destroyed by card effects",
+        "url": "https://yugipedia.com/wiki/Equipped_cannot_be_destroyed_by_card_effects"
+    },
+    {
+        "name": "Equipped direct attacks",
+        "url": "https://yugipedia.com/wiki/Equipped_direct_attacks"
+    },
+    {
+        "name": "Equipped gains ATK",
+        "url": "https://yugipedia.com/wiki/Equipped_gains_ATK"
+    },
+    {
+        "name": "Equipped gains DEF",
+        "url": "https://yugipedia.com/wiki/Equipped_gains_DEF"
+    },
+    {
+        "name": "Equipped gains Levels",
+        "url": "https://yugipedia.com/wiki/Equipped_gains_Levels"
+    },
+    {
+        "name": "Equipped loses ATK",
+        "url": "https://yugipedia.com/wiki/Equipped_loses_ATK"
+    },
+    {
+        "name": "Equipped loses DEF",
+        "url": "https://yugipedia.com/wiki/Equipped_loses_DEF"
+    },
+    {
+        "name": "Equipped loses Levels",
+        "url": "https://yugipedia.com/wiki/Equipped_loses_Levels"
+    },
+    {
+        "name": "Equips from the opponent's Graveyard",
+        "url": "https://yugipedia.com/wiki/Equips_from_the_opponent%27s_Graveyard"
+    },
+    {
+        "name": "Equips from the player's Deck",
+        "url": "https://yugipedia.com/wiki/Equips_from_the_player%27s_Deck"
+    },
+    {
+        "name": "Equips from the player's Deck to itself",
+        "url": "https://yugipedia.com/wiki/Equips_from_the_player%27s_Deck_to_itself"
+    },
+    {
+        "name": "Equips from the player's Extra Deck",
+        "url": "https://yugipedia.com/wiki/Equips_from_the_player%27s_Extra_Deck"
+    },
+    {
+        "name": "Equips from the player's Extra Deck to itself",
+        "url": "https://yugipedia.com/wiki/Equips_from_the_player%27s_Extra_Deck_to_itself"
+    },
+    {
+        "name": "Equips from the player's Graveyard",
+        "url": "https://yugipedia.com/wiki/Equips_from_the_player%27s_Graveyard"
+    },
+    {
+        "name": "Equips from the player's Graveyard to itself",
+        "url": "https://yugipedia.com/wiki/Equips_from_the_player%27s_Graveyard_to_itself"
+    },
+    {
+        "name": "Equips from the player's hand",
+        "url": "https://yugipedia.com/wiki/Equips_from_the_player%27s_hand"
+    },
+    {
+        "name": "Equips from the player's hand to itself",
+        "url": "https://yugipedia.com/wiki/Equips_from_the_player%27s_hand_to_itself"
+    },
+    {
+        "name": "Equips from the top of player's Deck to itself",
+        "url": "https://yugipedia.com/wiki/Equips_from_the_top_of_player%27s_Deck_to_itself"
+    },
+    {
+        "name": "Equips monsters from the opponent's field",
+        "url": "https://yugipedia.com/wiki/Equips_monsters_from_the_opponent%27s_field"
+    },
+    {
+        "name": "Equips monsters from the opponent's field to itself",
+        "url": "https://yugipedia.com/wiki/Equips_monsters_from_the_opponent%27s_field_to_itself"
+    },
+    {
+        "name": "Equips monsters from the opponent's Graveyard",
+        "url": "https://yugipedia.com/wiki/Equips_monsters_from_the_opponent%27s_Graveyard"
+    },
+    {
+        "name": "Equips monsters from the opponent's Graveyard to itself",
+        "url": "https://yugipedia.com/wiki/Equips_monsters_from_the_opponent%27s_Graveyard_to_itself"
+    },
+    {
+        "name": "Equips monsters from the player's Deck",
+        "url": "https://yugipedia.com/wiki/Equips_monsters_from_the_player%27s_Deck"
+    },
+    {
+        "name": "Equips monsters from the player's Deck to itself",
+        "url": "https://yugipedia.com/wiki/Equips_monsters_from_the_player%27s_Deck_to_itself"
+    },
+    {
+        "name": "Equips monsters from the player's field",
+        "url": "https://yugipedia.com/wiki/Equips_monsters_from_the_player%27s_field"
+    },
+    {
+        "name": "Equips monsters from the player's field to itself",
+        "url": "https://yugipedia.com/wiki/Equips_monsters_from_the_player%27s_field_to_itself"
+    },
+    {
+        "name": "Equips monsters from the player's Graveyard",
+        "url": "https://yugipedia.com/wiki/Equips_monsters_from_the_player%27s_Graveyard"
+    },
+    {
+        "name": "Equips monsters from the player's Graveyard to itself",
+        "url": "https://yugipedia.com/wiki/Equips_monsters_from_the_player%27s_Graveyard_to_itself"
+    },
+    {
+        "name": "Equips monsters from the player's hand",
+        "url": "https://yugipedia.com/wiki/Equips_monsters_from_the_player%27s_hand"
+    },
+    {
+        "name": "Equips monsters from the player's hand to itself",
+        "url": "https://yugipedia.com/wiki/Equips_monsters_from_the_player%27s_hand_to_itself"
+    },
+    {
+        "name": "Equips only to a specific target",
+        "url": "https://yugipedia.com/wiki/Equips_only_to_a_specific_target"
+    },
+    {
+        "name": "Equips self from field",
+        "url": "https://yugipedia.com/wiki/Equips_self_from_field"
+    },
+    {
+        "name": "Equips self from Graveyard",
+        "url": "https://yugipedia.com/wiki/Equips_self_from_Graveyard"
+    },
+    {
+        "name": "Equips self from hand",
+        "url": "https://yugipedia.com/wiki/Equips_self_from_hand"
+    },
+    {
+        "name": "Equips the player's banished monsters",
+        "url": "https://yugipedia.com/wiki/Equips_the_player%27s_banished_monsters"
+    },
+    {
+        "name": "Equips the player's banished monsters to itself",
+        "url": "https://yugipedia.com/wiki/Equips_the_player%27s_banished_monsters_to_itself"
+    },
+    {
+        "name": "Equips to Summoned monster",
+        "url": "https://yugipedia.com/wiki/Equips_to_Summoned_monster"
+    },
+    {
+        "name": "Excavate",
+        "url": "https://yugipedia.com/wiki/Excavate"
+    },
+    {
+        "name": "Excavates from the opponent's Deck",
+        "url": "https://yugipedia.com/wiki/Excavates_from_the_opponent%27s_Deck"
+    },
+    {
+        "name": "Excavates from the player's Deck",
+        "url": "https://yugipedia.com/wiki/Excavates_from_the_player%27s_Deck"
+    },
+    {
+        "name": "Excavates from the player's Extra Deck",
+        "url": "https://yugipedia.com/wiki/Excavates_from_the_player%27s_Extra_Deck"
+    },
+    {
+        "name": "Exchanges cards",
+        "url": "https://yugipedia.com/wiki/Exchanges_cards"
+    },
+    {
+        "name": "Field-Unique",
+        "url": "https://yugipedia.com/wiki/Field-Unique"
+    },
+    {
+        "name": "Flip monster without a Flip effect",
+        "url": "https://yugipedia.com/wiki/Flip_monster_without_a_Flip_effect"
+    },
+    {
+        "name": "Flips itself face-down",
+        "url": "https://yugipedia.com/wiki/Flips_itself_face-down"
+    },
+    {
+        "name": "Flips itself face-up",
+        "url": "https://yugipedia.com/wiki/Flips_itself_face-up"
+    },
+    {
+        "name": "Flips monsters face-down",
+        "url": "https://yugipedia.com/wiki/Flips_monsters_face-down"
+    },
+    {
+        "name": "Flips monsters face-up",
+        "url": "https://yugipedia.com/wiki/Flips_monsters_face-up"
+    },
+    {
+        "name": "Flips your monsters face-down",
+        "url": "https://yugipedia.com/wiki/Flips_your_monsters_face-down"
+    },
+    {
+        "name": "Flips your opponent's monsters face-down",
+        "url": "https://yugipedia.com/wiki/Flips_your_opponent%27s_monsters_face-down"
+    },
+    {
+        "name": "Flips your opponent's monsters face-up",
+        "url": "https://yugipedia.com/wiki/Flips_your_opponent%27s_monsters_face-up"
+    },
+    {
+        "name": "Forces activation",
+        "url": "https://yugipedia.com/wiki/Forces_activation"
+    },
+    {
+        "name": "Fusion Summons specific Fusion Monster",
+        "url": "https://yugipedia.com/wiki/Fusion_Summons_specific_Fusion_Monster"
+    },
+    {
+        "name": "Gain this effect once per turn",
+        "url": "https://yugipedia.com/wiki/Gain_this_effect_once_per_turn"
+    },
+    {
+        "name": "Gains effects if Ritual Summoned using specific monster",
+        "url": "https://yugipedia.com/wiki/Gains_effects_if_Ritual_Summoned_using_specific_monster"
+    },
+    {
+        "name": "Gains effects if specific Xyz Material is attached",
+        "url": "https://yugipedia.com/wiki/Gains_effects_if_specific_Xyz_Material_is_attached"
+    },
+    {
+        "name": "Gains effects if Synchro Summoned using specific Synchro Material",
+        "url": "https://yugipedia.com/wiki/Gains_effects_if_Synchro_Summoned_using_specific_Synchro_Material"
+    },
+    {
+        "name": "Gains effects if Xyz Summoned using specific Xyz Material",
+        "url": "https://yugipedia.com/wiki/Gains_effects_if_Xyz_Summoned_using_specific_Xyz_Material"
+    },
+    {
+        "name": "Gives control of your monster",
+        "url": "https://yugipedia.com/wiki/Gives_control_of_your_monster"
+    },
+    {
+        "name": "Gives Link Monsters Levels",
+        "url": "https://yugipedia.com/wiki/Gives_Link_Monsters_Levels"
+    },
+    {
+        "name": "Gives Xyz Monsters Levels",
+        "url": "https://yugipedia.com/wiki/Gives_Xyz_Monsters_Levels"
+    },
+    {
+        "name": "Goes to Pendulum Zone",
+        "url": "https://yugipedia.com/wiki/Goes_to_Pendulum_Zone"
+    },
+    {
+        "name": "Grants abilities to monsters",
+        "url": "https://yugipedia.com/wiki/Grants_abilities_to_monsters"
+    },
+    {
+        "name": "Grants effect as Fusion Material",
+        "url": "https://yugipedia.com/wiki/Grants_effect_as_Fusion_Material"
+    },
+    {
+        "name": "Grants effect as Link Material",
+        "url": "https://yugipedia.com/wiki/Grants_effect_as_Link_Material"
+    },
+    {
+        "name": "Grants effect as Synchro Material",
+        "url": "https://yugipedia.com/wiki/Grants_effect_as_Synchro_Material"
+    },
+    {
+        "name": "Grants effect as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Grants_effect_as_Xyz_Material"
+    },
+    {
+        "name": "Grants effect to Equip Spell Card",
+        "url": "https://yugipedia.com/wiki/Grants_effect_to_Equip_Spell_Card"
+    },
+    {
+        "name": "Grants effect to equipped monster",
+        "url": "https://yugipedia.com/wiki/Grants_effect_to_equipped_monster"
+    },
+    {
+        "name": "Grants effect to other cards",
+        "url": "https://yugipedia.com/wiki/Grants_effect_to_other_cards"
+    },
+    {
+        "name": "Grants effect to Special Summoned Tokens",
+        "url": "https://yugipedia.com/wiki/Grants_effect_to_Special_Summoned_Tokens"
+    },
+    {
+        "name": "Grants effect when used for a Ritual Summon",
+        "url": "https://yugipedia.com/wiki/Grants_effect_when_used_for_a_Ritual_Summon"
+    },
+    {
+        "name": "Grants effect while attached as Xyz Material",
+        "url": "https://yugipedia.com/wiki/Grants_effect_while_attached_as_Xyz_Material"
+    },
+    {
+        "name": "Halves ATK",
+        "url": "https://yugipedia.com/wiki/Halves_ATK"
+    },
+    {
+        "name": "Halves DEF",
+        "url": "https://yugipedia.com/wiki/Halves_DEF"
+    },
+    {
+        "name": "Halves LP",
+        "url": "https://yugipedia.com/wiki/Halves_LP"
+    },
+    {
+        "name": "Halves the opponent's LP",
+        "url": "https://yugipedia.com/wiki/Halves_the_opponent%27s_LP"
+    },
+    {
+        "name": "Halves the player's LP",
+        "url": "https://yugipedia.com/wiki/Halves_the_player%27s_LP"
+    },
+    {
+        "name": "Ignoring the Summoning conditions",
+        "url": "https://yugipedia.com/wiki/Ignoring_the_Summoning_conditions"
+    },
+    {
+        "name": "Increases battle damage",
+        "url": "https://yugipedia.com/wiki/Increases_battle_damage"
+    },
+    {
+        "name": "Increases effect damage",
+        "url": "https://yugipedia.com/wiki/Increases_effect_damage"
+    },
+    {
+        "name": "Increases its own Pendulum Scale",
+        "url": "https://yugipedia.com/wiki/Increases_its_own_Pendulum_Scale"
+    },
+    {
+        "name": "Increases normal draw",
+        "url": "https://yugipedia.com/wiki/Increases_normal_draw"
+    },
+    {
+        "name": "Increases Pendulum Scale",
+        "url": "https://yugipedia.com/wiki/Increases_Pendulum_Scale"
+    },
+    {
+        "name": "Increases your hand size limit",
+        "url": "https://yugipedia.com/wiki/Increases_your_hand_size_limit"
+    },
+    {
+        "name": "Increases your opponent's hand size limit",
+        "url": "https://yugipedia.com/wiki/Increases_your_opponent%27s_hand_size_limit"
+    },
+    {
+        "name": "Level condition",
+        "url": "https://yugipedia.com/wiki/Level_condition"
+    },
+    {
+        "name": "Limited activations",
+        "url": "https://yugipedia.com/wiki/Limited_activations"
+    },
+    {
+        "name": "Limited activations in a Chain",
+        "url": "https://yugipedia.com/wiki/Limited_activations_in_a_Chain"
+    },
+    {
+        "name": "Link Summon once per turn",
+        "url": "https://yugipedia.com/wiki/Link_Summon_once_per_turn"
+    },
+    {
+        "name": "List of coin toss anti-support cards",
+        "url": "https://yugipedia.com/wiki/List_of_coin_toss_anti-support_cards"
+    },
+    {
+        "name": "List of coin toss support cards",
+        "url": "https://yugipedia.com/wiki/List_of_coin_toss_support_cards"
+    },
+    {
+        "name": "Looks at cards from the top of the opponent's Deck",
+        "url": "https://yugipedia.com/wiki/Looks_at_cards_from_the_top_of_the_opponent%27s_Deck"
+    },
+    {
+        "name": "Looks at cards from the top of the player's Deck",
+        "url": "https://yugipedia.com/wiki/Looks_at_cards_from_the_top_of_the_player%27s_Deck"
+    },
+    {
+        "name": "Makes mandatory effects optional",
+        "url": "https://yugipedia.com/wiki/Makes_mandatory_effects_optional"
+    },
+    {
+        "name": "Makes the opponent banish from the field",
+        "url": "https://yugipedia.com/wiki/Makes_the_opponent_banish_from_the_field"
+    },
+    {
+        "name": "Makes the opponent banish from the Graveyard",
+        "url": "https://yugipedia.com/wiki/Makes_the_opponent_banish_from_the_Graveyard"
+    },
+    {
+        "name": "Makes the player banish from the field",
+        "url": "https://yugipedia.com/wiki/Makes_the_player_banish_from_the_field"
+    },
+    {
+        "name": "Makes the player send from the field to the Graveyard",
+        "url": "https://yugipedia.com/wiki/Makes_the_player_send_from_the_field_to_the_Graveyard"
+    },
+    {
+        "name": "Makes your opponent return cards from the field to the Deck",
+        "url": "https://yugipedia.com/wiki/Makes_your_opponent_return_cards_from_the_field_to_the_Deck"
+    },
+    {
+        "name": "Makes your opponent return cards from the Graveyard to the Deck",
+        "url": "https://yugipedia.com/wiki/Makes_your_opponent_return_cards_from_the_Graveyard_to_the_Deck"
+    },
+    {
+        "name": "Makes your opponent return cards from the hand to the Deck",
+        "url": "https://yugipedia.com/wiki/Makes_your_opponent_return_cards_from_the_hand_to_the_Deck"
+    },
+    {
+        "name": "Makes your opponent send from the field to the Graveyard",
+        "url": "https://yugipedia.com/wiki/Makes_your_opponent_send_from_the_field_to_the_Graveyard"
+    },
+    {
+        "name": "Makes your opponent send from the hand to the Graveyard",
+        "url": "https://yugipedia.com/wiki/Makes_your_opponent_send_from_the_hand_to_the_Graveyard"
+    },
+    {
+        "name": "Makes your opponent Tribute",
+        "url": "https://yugipedia.com/wiki/Makes_your_opponent_Tribute"
+    },
+    {
+        "name": "Manages attack targets",
+        "url": "https://yugipedia.com/wiki/Manages_attack_targets"
+    },
+    {
+        "name": "Mentions",
+        "url": "https://yugipedia.com/wiki/Mentions"
+    },
+    {
+        "name": "Modifies the Levels of monsters in the hand",
+        "url": "https://yugipedia.com/wiki/Modifies_the_Levels_of_monsters_in_the_hand"
+    },
+    {
+        "name": "Modifies which cards can be used as Fusion Material",
+        "url": "https://yugipedia.com/wiki/Modifies_which_cards_can_be_used_as_Fusion_Material"
+    },
+    {
+        "name": "Moves Equip Cards",
+        "url": "https://yugipedia.com/wiki/Moves_Equip_Cards"
+    },
+    {
+        "name": "Moves Xyz Materials",
+        "url": "https://yugipedia.com/wiki/Moves_Xyz_Materials"
+    },
+    {
+        "name": "Multiple attacker",
+        "url": "https://yugipedia.com/wiki/Multiple_attacker"
+    },
+    {
+        "name": "Must attack",
+        "url": "https://yugipedia.com/wiki/Must_attack"
+    },
+    {
+        "name": "Must attack particular monster",
+        "url": "https://yugipedia.com/wiki/Must_attack_particular_monster"
+    },
+    {
+        "name": "Must be drawn for normal draw to be activated",
+        "url": "https://yugipedia.com/wiki/Must_be_drawn_for_normal_draw_to_be_activated"
+    },
+    {
+        "name": "Must be Fusion Summoned with listed Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Must_be_Fusion_Summoned_with_listed_Fusion_Materials"
+    },
+    {
+        "name": "Must be Set before activation",
+        "url": "https://yugipedia.com/wiki/Must_be_Set_before_activation"
+    },
+    {
+        "name": "Must be Special Summoned by a card effect",
+        "url": "https://yugipedia.com/wiki/Must_be_Special_Summoned_by_a_card_effect"
+    },
+    {
+        "name": "Must be Special Summoned by a specific card effect",
+        "url": "https://yugipedia.com/wiki/Must_be_Special_Summoned_by_a_specific_card_effect"
+    },
+    {
+        "name": "Must be Xyz Summoned with listed Xyz Materials",
+        "url": "https://yugipedia.com/wiki/Must_be_Xyz_Summoned_with_listed_Xyz_Materials"
+    },
+    {
+        "name": "Must include particular Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Must_include_particular_Fusion_Materials"
+    },
+    {
+        "name": "Must include particular Xyz Materials",
+        "url": "https://yugipedia.com/wiki/Must_include_particular_Xyz_Materials"
+    },
+    {
+        "name": "Must pay cost to activate cards or effects",
+        "url": "https://yugipedia.com/wiki/Must_pay_cost_to_activate_cards_or_effects"
+    },
+    {
+        "name": "Must pay cost to attack",
+        "url": "https://yugipedia.com/wiki/Must_pay_cost_to_attack"
+    },
+    {
+        "name": "Must pay Life Points to attack",
+        "url": "https://yugipedia.com/wiki/Must_pay_Life_Points_to_attack"
+    },
+    {
+        "name": "Must Tribute to attack",
+        "url": "https://yugipedia.com/wiki/Must_Tribute_to_attack"
+    },
+    {
+        "name": "Name condition",
+        "url": "https://yugipedia.com/wiki/Name_condition"
+    },
+    {
+        "name": "Negates attacks",
+        "url": "https://yugipedia.com/wiki/Negates_attacks"
+    },
+    {
+        "name": "Negates Flip Summons",
+        "url": "https://yugipedia.com/wiki/Negates_Flip_Summons"
+    },
+    {
+        "name": "Negates itself",
+        "url": "https://yugipedia.com/wiki/Negates_itself"
+    },
+    {
+        "name": "Negates Normal Summons",
+        "url": "https://yugipedia.com/wiki/Negates_Normal_Summons"
+    },
+    {
+        "name": "Negates Special Summons",
+        "url": "https://yugipedia.com/wiki/Negates_Special_Summons"
+    },
+    {
+        "name": "Negates the activation of Effect Monster's effect",
+        "url": "https://yugipedia.com/wiki/Negates_the_activation_of_Effect_Monster%27s_effect"
+    },
+    {
+        "name": "Negates the activation of Spell Cards",
+        "url": "https://yugipedia.com/wiki/Negates_the_activation_of_Spell_Cards"
+    },
+    {
+        "name": "Negates the activation of Trap Cards",
+        "url": "https://yugipedia.com/wiki/Negates_the_activation_of_Trap_Cards"
+    },
+    {
+        "name": "Negates the activation of your opponent's Effect Monster's effect",
+        "url": "https://yugipedia.com/wiki/Negates_the_activation_of_your_opponent%27s_Effect_Monster%27s_effect"
+    },
+    {
+        "name": "Negates the activation of your opponent's Spell Cards",
+        "url": "https://yugipedia.com/wiki/Negates_the_activation_of_your_opponent%27s_Spell_Cards"
+    },
+    {
+        "name": "Negates the activation of your opponent's Trap Cards",
+        "url": "https://yugipedia.com/wiki/Negates_the_activation_of_your_opponent%27s_Trap_Cards"
+    },
+    {
+        "name": "Negates the effects of battling monster after damage calculation",
+        "url": "https://yugipedia.com/wiki/Negates_the_effects_of_battling_monster_after_damage_calculation"
+    },
+    {
+        "name": "Negates the effects of Effect Monsters",
+        "url": "https://yugipedia.com/wiki/Negates_the_effects_of_Effect_Monsters"
+    },
+    {
+        "name": "Negates the effects of Spell Cards",
+        "url": "https://yugipedia.com/wiki/Negates_the_effects_of_Spell_Cards"
+    },
+    {
+        "name": "Negates the effects of the Summoned monsters",
+        "url": "https://yugipedia.com/wiki/Negates_the_effects_of_the_Summoned_monsters"
+    },
+    {
+        "name": "Negates the effects of Trap Cards",
+        "url": "https://yugipedia.com/wiki/Negates_the_effects_of_Trap_Cards"
+    },
+    {
+        "name": "Negates the effects of your Effect Monsters",
+        "url": "https://yugipedia.com/wiki/Negates_the_effects_of_your_Effect_Monsters"
+    },
+    {
+        "name": "Negates the effects of your opponent's Effect Monsters",
+        "url": "https://yugipedia.com/wiki/Negates_the_effects_of_your_opponent%27s_Effect_Monsters"
+    },
+    {
+        "name": "Negates the effects of your opponent's Spell Cards",
+        "url": "https://yugipedia.com/wiki/Negates_the_effects_of_your_opponent%27s_Spell_Cards"
+    },
+    {
+        "name": "Negates the effects of your opponent's Trap Cards",
+        "url": "https://yugipedia.com/wiki/Negates_the_effects_of_your_opponent%27s_Trap_Cards"
+    },
+    {
+        "name": "Negates the effects of your Spell Cards",
+        "url": "https://yugipedia.com/wiki/Negates_the_effects_of_your_Spell_Cards"
+    },
+    {
+        "name": "Negates the effects of your Trap Cards",
+        "url": "https://yugipedia.com/wiki/Negates_the_effects_of_your_Trap_Cards"
+    },
+    {
+        "name": "No Pendulum Effects",
+        "url": "https://yugipedia.com/wiki/No_Pendulum_Effects"
+    },
+    {
+        "name": "Non-Tuner monster",
+        "url": "https://yugipedia.com/wiki/Non-Tuner_monster"
+    },
+    {
+        "name": "Nonspecific Ritual Spell Card",
+        "url": "https://yugipedia.com/wiki/Nonspecific_Ritual_Spell_Card"
+    },
+    {
+        "name": "Normal Summon condition",
+        "url": "https://yugipedia.com/wiki/Normal_Summon_condition"
+    },
+    {
+        "name": "Normal Summon with 1 Tribute",
+        "url": "https://yugipedia.com/wiki/Normal_Summon_with_1_Tribute"
+    },
+    {
+        "name": "Normal Summon with 3 Tributes",
+        "url": "https://yugipedia.com/wiki/Normal_Summon_with_3_Tributes"
+    },
+    {
+        "name": "Normal Summon with 4 Tributes",
+        "url": "https://yugipedia.com/wiki/Normal_Summon_with_4_Tributes"
+    },
+    {
+        "name": "Normal Summon with 5 Tributes",
+        "url": "https://yugipedia.com/wiki/Normal_Summon_with_5_Tributes"
+    },
+    {
+        "name": "Normal Summon without Tribute",
+        "url": "https://yugipedia.com/wiki/Normal_Summon_without_Tribute"
+    },
+    {
+        "name": "Normal Summons to the opponent's field",
+        "url": "https://yugipedia.com/wiki/Normal_Summons_to_the_opponent%27s_field"
+    },
+    {
+        "name": "Once per Chain",
+        "url": "https://yugipedia.com/wiki/Once_per_Chain"
+    },
+    {
+        "name": "Once while face-up on the field",
+        "url": "https://yugipedia.com/wiki/Once_while_face-up_on_the_field"
+    },
+    {
+        "name": "Once while in the Graveyard",
+        "url": "https://yugipedia.com/wiki/Once_while_in_the_Graveyard"
+    },
+    {
+        "name": "Only 1 effect once per turn",
+        "url": "https://yugipedia.com/wiki/Only_1_effect_once_per_turn"
+    },
+    {
+        "name": "Only once per Duel",
+        "url": "https://yugipedia.com/wiki/Only_once_per_Duel"
+    },
+    {
+        "name": "Only once per turn",
+        "url": "https://yugipedia.com/wiki/Only_once_per_turn"
+    },
+    {
+        "name": "Only thrice per turn",
+        "url": "https://yugipedia.com/wiki/Only_thrice_per_turn"
+    },
+    {
+        "name": "Only twice per turn",
+        "url": "https://yugipedia.com/wiki/Only_twice_per_turn"
+    },
+    {
+        "name": "Overwrites card effects",
+        "url": "https://yugipedia.com/wiki/Overwrites_card_effects"
+    },
+    {
+        "name": "Overwrites costs",
+        "url": "https://yugipedia.com/wiki/Overwrites_costs"
+    },
+    {
+        "name": "Pays Life Points for cost",
+        "url": "https://yugipedia.com/wiki/Pays_Life_Points_for_cost"
+    },
+    {
+        "name": "Pays Life Points for effect",
+        "url": "https://yugipedia.com/wiki/Pays_Life_Points_for_effect"
+    },
+    {
+        "name": "Pays Life Points for Summon",
+        "url": "https://yugipedia.com/wiki/Pays_Life_Points_for_Summon"
+    },
+    {
+        "name": "Pendulum Monsters that cannot be Pendulum Summoned",
+        "url": "https://yugipedia.com/wiki/Pendulum_Monsters_that_cannot_be_Pendulum_Summoned"
+    },
+    {
+        "name": "Pendulum Summoning condition",
+        "url": "https://yugipedia.com/wiki/Pendulum_Summoning_condition"
+    },
+    {
+        "name": "Performs a Fusion Summon",
+        "url": "https://yugipedia.com/wiki/Performs_a_Fusion_Summon"
+    },
+    {
+        "name": "Performs a Link Summon",
+        "url": "https://yugipedia.com/wiki/Performs_a_Link_Summon"
+    },
+    {
+        "name": "Performs a Normal Set",
+        "url": "https://yugipedia.com/wiki/Performs_a_Normal_Set"
+    },
+    {
+        "name": "Performs a Normal Summon",
+        "url": "https://yugipedia.com/wiki/Performs_a_Normal_Summon"
+    },
+    {
+        "name": "Performs a Pendulum Summon",
+        "url": "https://yugipedia.com/wiki/Performs_a_Pendulum_Summon"
+    },
+    {
+        "name": "Performs a Ritual Summon",
+        "url": "https://yugipedia.com/wiki/Performs_a_Ritual_Summon"
+    },
+    {
+        "name": "Performs a Synchro Summon",
+        "url": "https://yugipedia.com/wiki/Performs_a_Synchro_Summon"
+    },
+    {
+        "name": "Performs a Tribute Summon",
+        "url": "https://yugipedia.com/wiki/Performs_a_Tribute_Summon"
+    },
+    {
+        "name": "Performs an Xyz Summon",
+        "url": "https://yugipedia.com/wiki/Performs_an_Xyz_Summon"
+    },
+    {
+        "name": "Performs Xyz Evolution",
+        "url": "https://yugipedia.com/wiki/Performs_Xyz_Evolution"
+    },
+    {
+        "name": "Pick up a card",
+        "url": "https://yugipedia.com/wiki/Pick_up_a_card"
+    },
+    {
+        "name": "Piercing",
+        "url": "https://yugipedia.com/wiki/Piercing"
+    },
+    {
+        "name": "Places cards from Deck in Field Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_Deck_in_Field_Zone"
+    },
+    {
+        "name": "Places cards from Deck in Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_Deck_in_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Places cards from Extra Deck in Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_Extra_Deck_in_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Places cards from field in Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_field_in_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Places cards from Graveyard in Field Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_Graveyard_in_Field_Zone"
+    },
+    {
+        "name": "Places cards from Graveyard in Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_Graveyard_in_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Places cards from hand in Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_hand_in_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Places cards from the Deck on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_Deck_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the Deck on the top of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_Deck_on_the_top_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the opponent's Deck on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_opponent%27s_Deck_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the opponent's Deck on the top of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_opponent%27s_Deck_on_the_top_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the opponent's field in the opponent's Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_opponent%27s_field_in_the_opponent%27s_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Places cards from the opponent's field on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_opponent%27s_field_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the opponent's field on the top of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_opponent%27s_field_on_the_top_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the opponent's Graveyard in the opponent's Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_opponent%27s_Graveyard_in_the_opponent%27s_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Places cards from the opponent's Graveyard on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_opponent%27s_Graveyard_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the opponent's Graveyard on the top of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_opponent%27s_Graveyard_on_the_top_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the opponent's hand on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_opponent%27s_hand_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the opponent's hand on the top of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_opponent%27s_hand_on_the_top_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the player's Deck on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_Deck_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the player's Deck on the top of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_Deck_on_the_top_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the player's field on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_field_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the player's field on the bottom of the Deck for cost",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_field_on_the_bottom_of_the_Deck_for_cost"
+    },
+    {
+        "name": "Places cards from the player's field on the top of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_field_on_the_top_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the player's field on the top of the Deck for cost",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_field_on_the_top_of_the_Deck_for_cost"
+    },
+    {
+        "name": "Places cards from the player's Graveyard on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_Graveyard_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the player's Graveyard on the bottom of the Deck for cost",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_Graveyard_on_the_bottom_of_the_Deck_for_cost"
+    },
+    {
+        "name": "Places cards from the player's Graveyard on the top of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_Graveyard_on_the_top_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the player's Graveyard on the top of the Deck for cost",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_Graveyard_on_the_top_of_the_Deck_for_cost"
+    },
+    {
+        "name": "Places cards from the player's hand on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_hand_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the player's hand on the bottom of the Deck for cost",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_hand_on_the_bottom_of_the_Deck_for_cost"
+    },
+    {
+        "name": "Places cards from the player's hand on the top of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_hand_on_the_top_of_the_Deck"
+    },
+    {
+        "name": "Places cards from the player's hand on the top of the Deck for cost",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_the_player%27s_hand_on_the_top_of_the_Deck_for_cost"
+    },
+    {
+        "name": "Places cards from your Deck in your Field Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_your_Deck_in_your_Field_Zone"
+    },
+    {
+        "name": "Places cards from your Deck in your opponent's Field Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_your_Deck_in_your_opponent%27s_Field_Zone"
+    },
+    {
+        "name": "Places cards from your Graveyard in your Field Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_your_Graveyard_in_your_Field_Zone"
+    },
+    {
+        "name": "Places cards from your Graveyard in your opponent's Field Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_your_Graveyard_in_your_opponent%27s_Field_Zone"
+    },
+    {
+        "name": "Places cards from your hand in your Field Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_your_hand_in_your_Field_Zone"
+    },
+    {
+        "name": "Places cards from your hand in your opponent's Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_your_hand_in_your_opponent%27s_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Places cards from your opponent's Graveyard in your Field Zone",
+        "url": "https://yugipedia.com/wiki/Places_cards_from_your_opponent%27s_Graveyard_in_your_Field_Zone"
+    },
+    {
+        "name": "Places cards under other cards",
+        "url": "https://yugipedia.com/wiki/Places_cards_under_other_cards"
+    },
+    {
+        "name": "Places counters",
+        "url": "https://yugipedia.com/wiki/Places_counters"
+    },
+    {
+        "name": "Places counters on itself",
+        "url": "https://yugipedia.com/wiki/Places_counters_on_itself"
+    },
+    {
+        "name": "Places destroyed cards in Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Places_destroyed_cards_in_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Places excavated cards on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_excavated_cards_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places excavated cards on the top of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_excavated_cards_on_the_top_of_the_Deck"
+    },
+    {
+        "name": "Places from Deck to Pendulum Zone",
+        "url": "https://yugipedia.com/wiki/Places_from_Deck_to_Pendulum_Zone"
+    },
+    {
+        "name": "Places from Extra Deck to Pendulum Zone",
+        "url": "https://yugipedia.com/wiki/Places_from_Extra_Deck_to_Pendulum_Zone"
+    },
+    {
+        "name": "Places from field to Pendulum Zone",
+        "url": "https://yugipedia.com/wiki/Places_from_field_to_Pendulum_Zone"
+    },
+    {
+        "name": "Places from Graveyard to Pendulum Zone",
+        "url": "https://yugipedia.com/wiki/Places_from_Graveyard_to_Pendulum_Zone"
+    },
+    {
+        "name": "Places from hand to Pendulum Zone",
+        "url": "https://yugipedia.com/wiki/Places_from_hand_to_Pendulum_Zone"
+    },
+    {
+        "name": "Places itself from the player's field on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_itself_from_the_player%27s_field_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places itself from the player's field on the top of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_itself_from_the_player%27s_field_on_the_top_of_the_Deck"
+    },
+    {
+        "name": "Places itself from the player's Graveyard on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_itself_from_the_player%27s_Graveyard_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places itself from the player's Graveyard on the bottom of the Deck for cost",
+        "url": "https://yugipedia.com/wiki/Places_itself_from_the_player%27s_Graveyard_on_the_bottom_of_the_Deck_for_cost"
+    },
+    {
+        "name": "Places itself from the player's Graveyard on the top of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_itself_from_the_player%27s_Graveyard_on_the_top_of_the_Deck"
+    },
+    {
+        "name": "Places itself from the player's hand on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_itself_from_the_player%27s_hand_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places itself in Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Places_itself_in_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Places itself in the opponent's Deck",
+        "url": "https://yugipedia.com/wiki/Places_itself_in_the_opponent%27s_Deck"
+    },
+    {
+        "name": "Places itself on the bottom of the Deck when it leaves the field",
+        "url": "https://yugipedia.com/wiki/Places_itself_on_the_bottom_of_the_Deck_when_it_leaves_the_field"
+    },
+    {
+        "name": "Places the player's banished cards in Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Places_the_player%27s_banished_cards_in_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Places the player's banished cards on the bottom of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_the_player%27s_banished_cards_on_the_bottom_of_the_Deck"
+    },
+    {
+        "name": "Places the player's banished cards on the bottom of the Deck for cost",
+        "url": "https://yugipedia.com/wiki/Places_the_player%27s_banished_cards_on_the_bottom_of_the_Deck_for_cost"
+    },
+    {
+        "name": "Places the player's banished cards on the top of the Deck",
+        "url": "https://yugipedia.com/wiki/Places_the_player%27s_banished_cards_on_the_top_of_the_Deck"
+    },
+    {
+        "name": "Places your banished cards in your Field Zone",
+        "url": "https://yugipedia.com/wiki/Places_your_banished_cards_in_your_Field_Zone"
+    },
+    {
+        "name": "Places your cards in your opponent's Graveyard",
+        "url": "https://yugipedia.com/wiki/Places_your_cards_in_your_opponent%27s_Graveyard"
+    },
+    {
+        "name": "Places your opponent's banished cards in your Field Zone",
+        "url": "https://yugipedia.com/wiki/Places_your_opponent%27s_banished_cards_in_your_Field_Zone"
+    },
+    {
+        "name": "Places your opponent's banished cards in your Pendulum Zone",
+        "url": "https://yugipedia.com/wiki/Places_your_opponent%27s_banished_cards_in_your_Pendulum_Zone"
+    },
+    {
+        "name": "Prevents activation of Effect Monsters",
+        "url": "https://yugipedia.com/wiki/Prevents_activation_of_Effect_Monsters"
+    },
+    {
+        "name": "Prevents activation of Flip monsters' effects",
+        "url": "https://yugipedia.com/wiki/Prevents_activation_of_Flip_monsters%27_effects"
+    },
+    {
+        "name": "Prevents activation of Spell Cards",
+        "url": "https://yugipedia.com/wiki/Prevents_activation_of_Spell_Cards"
+    },
+    {
+        "name": "Prevents activation of Trap Cards",
+        "url": "https://yugipedia.com/wiki/Prevents_activation_of_Trap_Cards"
+    },
+    {
+        "name": "Prevents activation of your Effect Monsters",
+        "url": "https://yugipedia.com/wiki/Prevents_activation_of_your_Effect_Monsters"
+    },
+    {
+        "name": "Prevents activation of your opponent's Effect Monsters",
+        "url": "https://yugipedia.com/wiki/Prevents_activation_of_your_opponent%27s_Effect_Monsters"
+    },
+    {
+        "name": "Prevents activation of your opponent's Spell Cards",
+        "url": "https://yugipedia.com/wiki/Prevents_activation_of_your_opponent%27s_Spell_Cards"
+    },
+    {
+        "name": "Prevents activation of your opponent's Trap Cards",
+        "url": "https://yugipedia.com/wiki/Prevents_activation_of_your_opponent%27s_Trap_Cards"
+    },
+    {
+        "name": "Prevents activation of your Spell Cards",
+        "url": "https://yugipedia.com/wiki/Prevents_activation_of_your_Spell_Cards"
+    },
+    {
+        "name": "Prevents activation of your Trap Cards",
+        "url": "https://yugipedia.com/wiki/Prevents_activation_of_your_Trap_Cards"
+    },
+    {
+        "name": "Prevents activations upon Summon",
+        "url": "https://yugipedia.com/wiki/Prevents_activations_upon_Summon"
+    },
+    {
+        "name": "Prevents adding cards from Deck to hand",
+        "url": "https://yugipedia.com/wiki/Prevents_adding_cards_from_Deck_to_hand"
+    },
+    {
+        "name": "Prevents adding cards from Graveyard to hand",
+        "url": "https://yugipedia.com/wiki/Prevents_adding_cards_from_Graveyard_to_hand"
+    },
+    {
+        "name": "Prevents attacks",
+        "url": "https://yugipedia.com/wiki/Prevents_attacks"
+    },
+    {
+        "name": "Prevents battle damage",
+        "url": "https://yugipedia.com/wiki/Prevents_battle_damage"
+    },
+    {
+        "name": "Prevents battle position changes",
+        "url": "https://yugipedia.com/wiki/Prevents_battle_position_changes"
+    },
+    {
+        "name": "Prevents cards from being banished",
+        "url": "https://yugipedia.com/wiki/Prevents_cards_from_being_banished"
+    },
+    {
+        "name": "Prevents cards from being discarded",
+        "url": "https://yugipedia.com/wiki/Prevents_cards_from_being_discarded"
+    },
+    {
+        "name": "Prevents cards from being used",
+        "url": "https://yugipedia.com/wiki/Prevents_cards_from_being_used"
+    },
+    {
+        "name": "Prevents direct attacks",
+        "url": "https://yugipedia.com/wiki/Prevents_direct_attacks"
+    },
+    {
+        "name": "Prevents drawing cards",
+        "url": "https://yugipedia.com/wiki/Prevents_drawing_cards"
+    },
+    {
+        "name": "Prevents effect damage",
+        "url": "https://yugipedia.com/wiki/Prevents_effect_damage"
+    },
+    {
+        "name": "Prevents equipped monster from attacking",
+        "url": "https://yugipedia.com/wiki/Prevents_equipped_monster_from_attacking"
+    },
+    {
+        "name": "Prevents Flip Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_Flip_Summons"
+    },
+    {
+        "name": "Prevents Fusion Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_Fusion_Summons"
+    },
+    {
+        "name": "Prevents Link Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_Link_Summons"
+    },
+    {
+        "name": "Prevents Normal Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_Normal_Summons"
+    },
+    {
+        "name": "Prevents other cards being destroyed by battle",
+        "url": "https://yugipedia.com/wiki/Prevents_other_cards_being_destroyed_by_battle"
+    },
+    {
+        "name": "Prevents other cards being destroyed by card effects",
+        "url": "https://yugipedia.com/wiki/Prevents_other_cards_being_destroyed_by_card_effects"
+    },
+    {
+        "name": "Prevents other cards being targeted by card effects",
+        "url": "https://yugipedia.com/wiki/Prevents_other_cards_being_targeted_by_card_effects"
+    },
+    {
+        "name": "Prevents other cards being targeted for attacks",
+        "url": "https://yugipedia.com/wiki/Prevents_other_cards_being_targeted_for_attacks"
+    },
+    {
+        "name": "Prevents responding to its activation",
+        "url": "https://yugipedia.com/wiki/Prevents_responding_to_its_activation"
+    },
+    {
+        "name": "Prevents returning cards from field to Deck",
+        "url": "https://yugipedia.com/wiki/Prevents_returning_cards_from_field_to_Deck"
+    },
+    {
+        "name": "Prevents returning cards from field to Extra Deck",
+        "url": "https://yugipedia.com/wiki/Prevents_returning_cards_from_field_to_Extra_Deck"
+    },
+    {
+        "name": "Prevents returning cards from field to hand",
+        "url": "https://yugipedia.com/wiki/Prevents_returning_cards_from_field_to_hand"
+    },
+    {
+        "name": "Prevents sending cards from Deck to Graveyard",
+        "url": "https://yugipedia.com/wiki/Prevents_sending_cards_from_Deck_to_Graveyard"
+    },
+    {
+        "name": "Prevents Special Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_Special_Summons"
+    },
+    {
+        "name": "Prevents Synchro Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_Synchro_Summons"
+    },
+    {
+        "name": "Prevents the negation of activations",
+        "url": "https://yugipedia.com/wiki/Prevents_the_negation_of_activations"
+    },
+    {
+        "name": "Prevents the negation of card effects",
+        "url": "https://yugipedia.com/wiki/Prevents_the_negation_of_card_effects"
+    },
+    {
+        "name": "Prevents the opponent placing cards on the field",
+        "url": "https://yugipedia.com/wiki/Prevents_the_opponent_placing_cards_on_the_field"
+    },
+    {
+        "name": "Prevents the opponent's Normal Sets",
+        "url": "https://yugipedia.com/wiki/Prevents_the_opponent%27s_Normal_Sets"
+    },
+    {
+        "name": "Prevents the opponent's Tributes",
+        "url": "https://yugipedia.com/wiki/Prevents_the_opponent%27s_Tributes"
+    },
+    {
+        "name": "Prevents the player placing cards on the field",
+        "url": "https://yugipedia.com/wiki/Prevents_the_player_placing_cards_on_the_field"
+    },
+    {
+        "name": "Prevents the player's Flip Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_the_player%27s_Flip_Summons"
+    },
+    {
+        "name": "Prevents the player's Link Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_the_player%27s_Link_Summons"
+    },
+    {
+        "name": "Prevents the player's Normal Sets",
+        "url": "https://yugipedia.com/wiki/Prevents_the_player%27s_Normal_Sets"
+    },
+    {
+        "name": "Prevents the player's Normal Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_the_player%27s_Normal_Summons"
+    },
+    {
+        "name": "Prevents the player's Pendulum Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_the_player%27s_Pendulum_Summons"
+    },
+    {
+        "name": "Prevents the player's Special Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_the_player%27s_Special_Summons"
+    },
+    {
+        "name": "Prevents the player's Special Summons from the Deck",
+        "url": "https://yugipedia.com/wiki/Prevents_the_player%27s_Special_Summons_from_the_Deck"
+    },
+    {
+        "name": "Prevents the player's Special Summons from the Extra Deck",
+        "url": "https://yugipedia.com/wiki/Prevents_the_player%27s_Special_Summons_from_the_Extra_Deck"
+    },
+    {
+        "name": "Prevents the player's Tribute Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_the_player%27s_Tribute_Summons"
+    },
+    {
+        "name": "Prevents the player's Tributes",
+        "url": "https://yugipedia.com/wiki/Prevents_the_player%27s_Tributes"
+    },
+    {
+        "name": "Prevents Tribute Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_Tribute_Summons"
+    },
+    {
+        "name": "Prevents Xyz Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_Xyz_Summons"
+    },
+    {
+        "name": "Prevents your monsters from attacking",
+        "url": "https://yugipedia.com/wiki/Prevents_your_monsters_from_attacking"
+    },
+    {
+        "name": "Prevents your opponent's Flip Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_your_opponent%27s_Flip_Summons"
+    },
+    {
+        "name": "Prevents your opponent's monsters from attacking",
+        "url": "https://yugipedia.com/wiki/Prevents_your_opponent%27s_monsters_from_attacking"
+    },
+    {
+        "name": "Prevents your opponent's Normal Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_your_opponent%27s_Normal_Summons"
+    },
+    {
+        "name": "Prevents your opponent's Sets",
+        "url": "https://yugipedia.com/wiki/Prevents_your_opponent%27s_Sets"
+    },
+    {
+        "name": "Prevents your opponent's Special Summons",
+        "url": "https://yugipedia.com/wiki/Prevents_your_opponent%27s_Special_Summons"
+    },
+    {
+        "name": "Prevents your Sets",
+        "url": "https://yugipedia.com/wiki/Prevents_your_Sets"
+    },
+    {
+        "name": "Rank condition",
+        "url": "https://yugipedia.com/wiki/Rank_condition"
+    },
+    {
+        "name": "Rank-Up by 1 Rank",
+        "url": "https://yugipedia.com/wiki/Rank-Up_by_1_Rank"
+    },
+    {
+        "name": "Rank-Up by 2 Ranks",
+        "url": "https://yugipedia.com/wiki/Rank-Up_by_2_Ranks"
+    },
+    {
+        "name": "Rank-Up by 4 Ranks",
+        "url": "https://yugipedia.com/wiki/Rank-Up_by_4_Ranks"
+    },
+    {
+        "name": "Rank-Up by indeterminate Ranks",
+        "url": "https://yugipedia.com/wiki/Rank-Up_by_indeterminate_Ranks"
+    },
+    {
+        "name": "Rearranges face-down cards",
+        "url": "https://yugipedia.com/wiki/Rearranges_face-down_cards"
+    },
+    {
+        "name": "Redirects destruction",
+        "url": "https://yugipedia.com/wiki/Redirects_destruction"
+    },
+    {
+        "name": "Redirects effect damage",
+        "url": "https://yugipedia.com/wiki/Redirects_effect_damage"
+    },
+    {
+        "name": "Reduces ATK to 0",
+        "url": "https://yugipedia.com/wiki/Reduces_ATK_to_0"
+    },
+    {
+        "name": "Reduces battle damage",
+        "url": "https://yugipedia.com/wiki/Reduces_battle_damage"
+    },
+    {
+        "name": "Reduces costs",
+        "url": "https://yugipedia.com/wiki/Reduces_costs"
+    },
+    {
+        "name": "Reduces DEF to 0",
+        "url": "https://yugipedia.com/wiki/Reduces_DEF_to_0"
+    },
+    {
+        "name": "Reduces effect damage",
+        "url": "https://yugipedia.com/wiki/Reduces_effect_damage"
+    },
+    {
+        "name": "Reduces its own Pendulum Scale",
+        "url": "https://yugipedia.com/wiki/Reduces_its_own_Pendulum_Scale"
+    },
+    {
+        "name": "Reduces Pendulum Scale",
+        "url": "https://yugipedia.com/wiki/Reduces_Pendulum_Scale"
+    },
+    {
+        "name": "Reduces required number of Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Reduces_required_number_of_Fusion_Materials"
+    },
+    {
+        "name": "Reduces required number of Xyz Materials",
+        "url": "https://yugipedia.com/wiki/Reduces_required_number_of_Xyz_Materials"
+    },
+    {
+        "name": "Remains on the field",
+        "url": "https://yugipedia.com/wiki/Remains_on_the_field"
+    },
+    {
+        "name": "Removes counters",
+        "url": "https://yugipedia.com/wiki/Removes_counters"
+    },
+    {
+        "name": "Removes counters for cost",
+        "url": "https://yugipedia.com/wiki/Removes_counters_for_cost"
+    },
+    {
+        "name": "Removes counters for Special Summon",
+        "url": "https://yugipedia.com/wiki/Removes_counters_for_Special_Summon"
+    },
+    {
+        "name": "Removes counters from itself",
+        "url": "https://yugipedia.com/wiki/Removes_counters_from_itself"
+    },
+    {
+        "name": "Removes counters from itself for cost",
+        "url": "https://yugipedia.com/wiki/Removes_counters_from_itself_for_cost"
+    },
+    {
+        "name": "Replaces detaching own Xyz Materials for cost",
+        "url": "https://yugipedia.com/wiki/Replaces_detaching_own_Xyz_Materials_for_cost"
+    },
+    {
+        "name": "Replaces normal draw",
+        "url": "https://yugipedia.com/wiki/Replaces_normal_draw"
+    },
+    {
+        "name": "Requires control of no cards",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_no_cards"
+    },
+    {
+        "name": "Requires control of no monsters",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_no_monsters"
+    },
+    {
+        "name": "Requires control of no other monsters",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_no_other_monsters"
+    },
+    {
+        "name": "Requires control of no Spell and Traps",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_no_Spell_and_Traps"
+    },
+    {
+        "name": "Requires control of specific archetype",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_specific_archetype"
+    },
+    {
+        "name": "Requires control of specific ATK",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_specific_ATK"
+    },
+    {
+        "name": "Requires control of specific Attribute",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_specific_Attribute"
+    },
+    {
+        "name": "Requires control of specific card",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_specific_card"
+    },
+    {
+        "name": "Requires control of specific DEF",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_specific_DEF"
+    },
+    {
+        "name": "Requires control of specific Level",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_specific_Level"
+    },
+    {
+        "name": "Requires control of specific Link Rating",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_specific_Link_Rating"
+    },
+    {
+        "name": "Requires control of specific Monster card type",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_specific_Monster_card_type"
+    },
+    {
+        "name": "Requires control of specific Monster type",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_specific_Monster_type"
+    },
+    {
+        "name": "Requires control of specific Pendulum Scale",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_specific_Pendulum_Scale"
+    },
+    {
+        "name": "Requires control of specific Rank",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_specific_Rank"
+    },
+    {
+        "name": "Requires control of specific Type",
+        "url": "https://yugipedia.com/wiki/Requires_control_of_specific_Type"
+    },
+    {
+        "name": "Requires having no cards in Extra Deck",
+        "url": "https://yugipedia.com/wiki/Requires_having_no_cards_in_Extra_Deck"
+    },
+    {
+        "name": "Requires having no cards in Graveyard",
+        "url": "https://yugipedia.com/wiki/Requires_having_no_cards_in_Graveyard"
+    },
+    {
+        "name": "Requires having no cards in hand",
+        "url": "https://yugipedia.com/wiki/Requires_having_no_cards_in_hand"
+    },
+    {
+        "name": "Requires having no monsters in Graveyard",
+        "url": "https://yugipedia.com/wiki/Requires_having_no_monsters_in_Graveyard"
+    },
+    {
+        "name": "Requires having no other cards in hand",
+        "url": "https://yugipedia.com/wiki/Requires_having_no_other_cards_in_hand"
+    },
+    {
+        "name": "Requires having no Spells in Graveyard",
+        "url": "https://yugipedia.com/wiki/Requires_having_no_Spells_in_Graveyard"
+    },
+    {
+        "name": "Requires having no Traps in Graveyard",
+        "url": "https://yugipedia.com/wiki/Requires_having_no_Traps_in_Graveyard"
+    },
+    {
+        "name": "Requires having only specific Attribute in Graveyard",
+        "url": "https://yugipedia.com/wiki/Requires_having_only_specific_Attribute_in_Graveyard"
+    },
+    {
+        "name": "Requires having only specific Type in Graveyard",
+        "url": "https://yugipedia.com/wiki/Requires_having_only_specific_Type_in_Graveyard"
+    },
+    {
+        "name": "Requires Maximum Mode",
+        "url": "https://yugipedia.com/wiki/Requires_Maximum_Mode"
+    },
+    {
+        "name": "Requires only specific Effect Monsters as Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Requires_only_specific_Effect_Monsters_as_Fusion_Materials"
+    },
+    {
+        "name": "Requires specific LP",
+        "url": "https://yugipedia.com/wiki/Requires_specific_LP"
+    },
+    {
+        "name": "Resolves as another card's effect",
+        "url": "https://yugipedia.com/wiki/Resolves_as_another_card%27s_effect"
+    },
+    {
+        "name": "Restores original ATK value",
+        "url": "https://yugipedia.com/wiki/Restores_original_ATK_value"
+    },
+    {
+        "name": "Restores original DEF value",
+        "url": "https://yugipedia.com/wiki/Restores_original_DEF_value"
+    },
+    {
+        "name": "Restricts Monster Zones",
+        "url": "https://yugipedia.com/wiki/Restricts_Monster_Zones"
+    },
+    {
+        "name": "Restricts requirement for Ritual Summon",
+        "url": "https://yugipedia.com/wiki/Restricts_requirement_for_Ritual_Summon"
+    },
+    {
+        "name": "Restricts Spell & Trap Zones",
+        "url": "https://yugipedia.com/wiki/Restricts_Spell_%26_Trap_Zones"
+    },
+    {
+        "name": "Restricts the player's Flip Summons",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Flip_Summons"
+    },
+    {
+        "name": "Restricts the player's Link Summons",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Link_Summons"
+    },
+    {
+        "name": "Restricts the player's Normal Sets",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Normal_Sets"
+    },
+    {
+        "name": "Restricts the player's Normal Summons",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Normal_Summons"
+    },
+    {
+        "name": "Restricts the player's Normal Summons to archetype specific monsters",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Normal_Summons_to_archetype_specific_monsters"
+    },
+    {
+        "name": "Restricts the player's Normal Summons to Attribute specific monsters",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Normal_Summons_to_Attribute_specific_monsters"
+    },
+    {
+        "name": "Restricts the player's Normal Summons to Type specific monsters",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Normal_Summons_to_Type_specific_monsters"
+    },
+    {
+        "name": "Restricts the player's Pendulum Summons",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Pendulum_Summons"
+    },
+    {
+        "name": "Restricts the player's Pendulum Summons to archetype specific monsters",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Pendulum_Summons_to_archetype_specific_monsters"
+    },
+    {
+        "name": "Restricts the player's Pendulum Summons to Attribute specific monsters",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Pendulum_Summons_to_Attribute_specific_monsters"
+    },
+    {
+        "name": "Restricts the player's Ritual Summons",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Ritual_Summons"
+    },
+    {
+        "name": "Restricts the player's Special Summons",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Special_Summons"
+    },
+    {
+        "name": "Restricts the player's Special Summons from the Extra Deck",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Special_Summons_from_the_Extra_Deck"
+    },
+    {
+        "name": "Restricts the player's Special Summons to archetype specific monsters",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Special_Summons_to_archetype_specific_monsters"
+    },
+    {
+        "name": "Restricts the player's Special Summons to Attribute specific monsters",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Special_Summons_to_Attribute_specific_monsters"
+    },
+    {
+        "name": "Restricts the player's Special Summons to Level specific monsters",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Special_Summons_to_Level_specific_monsters"
+    },
+    {
+        "name": "Restricts the player's Special Summons to Link Rating specific monsters",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Special_Summons_to_Link_Rating_specific_monsters"
+    },
+    {
+        "name": "Restricts the player's Special Summons to Rank specific monsters",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Special_Summons_to_Rank_specific_monsters"
+    },
+    {
+        "name": "Restricts the player's Special Summons to Type specific monsters",
+        "url": "https://yugipedia.com/wiki/Restricts_the_player%27s_Special_Summons_to_Type_specific_monsters"
+    },
+    {
+        "name": "Restricts usage of other Materials",
+        "url": "https://yugipedia.com/wiki/Restricts_usage_of_other_Materials"
+    },
+    {
+        "name": "Returns banished cards to the Deck",
+        "url": "https://yugipedia.com/wiki/Returns_banished_cards_to_the_Deck"
+    },
+    {
+        "name": "Returns banished cards to the Deck for Summon",
+        "url": "https://yugipedia.com/wiki/Returns_banished_cards_to_the_Deck_for_Summon"
+    },
+    {
+        "name": "Returns banished cards to the field",
+        "url": "https://yugipedia.com/wiki/Returns_banished_cards_to_the_field"
+    },
+    {
+        "name": "Returns banished cards to the Graveyard",
+        "url": "https://yugipedia.com/wiki/Returns_banished_cards_to_the_Graveyard"
+    },
+    {
+        "name": "Returns battling monster to hand after damage calculation",
+        "url": "https://yugipedia.com/wiki/Returns_battling_monster_to_hand_after_damage_calculation"
+    },
+    {
+        "name": "Returns battling monster to the Deck at the start of the Damage Step",
+        "url": "https://yugipedia.com/wiki/Returns_battling_monster_to_the_Deck_at_the_start_of_the_Damage_Step"
+    },
+    {
+        "name": "Returns from Extra Deck to Main Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_Extra_Deck_to_Main_Deck"
+    },
+    {
+        "name": "Returns from field to Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_field_to_Deck"
+    },
+    {
+        "name": "Returns from field to Deck for cost",
+        "url": "https://yugipedia.com/wiki/Returns_from_field_to_Deck_for_cost"
+    },
+    {
+        "name": "Returns from field to Deck for Summon",
+        "url": "https://yugipedia.com/wiki/Returns_from_field_to_Deck_for_Summon"
+    },
+    {
+        "name": "Returns from field to Extra Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_field_to_Extra_Deck"
+    },
+    {
+        "name": "Returns from field to Extra Deck for cost",
+        "url": "https://yugipedia.com/wiki/Returns_from_field_to_Extra_Deck_for_cost"
+    },
+    {
+        "name": "Returns from field to hand",
+        "url": "https://yugipedia.com/wiki/Returns_from_field_to_hand"
+    },
+    {
+        "name": "Returns from field to hand for cost",
+        "url": "https://yugipedia.com/wiki/Returns_from_field_to_hand_for_cost"
+    },
+    {
+        "name": "Returns from field to hand for Special Summon",
+        "url": "https://yugipedia.com/wiki/Returns_from_field_to_hand_for_Special_Summon"
+    },
+    {
+        "name": "Returns from Graveyard to Deck for cost",
+        "url": "https://yugipedia.com/wiki/Returns_from_Graveyard_to_Deck_for_cost"
+    },
+    {
+        "name": "Returns from Graveyard to Deck for Summon",
+        "url": "https://yugipedia.com/wiki/Returns_from_Graveyard_to_Deck_for_Summon"
+    },
+    {
+        "name": "Returns from Graveyard to Extra Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_Graveyard_to_Extra_Deck"
+    },
+    {
+        "name": "Returns from Graveyard to Extra Deck for cost",
+        "url": "https://yugipedia.com/wiki/Returns_from_Graveyard_to_Extra_Deck_for_cost"
+    },
+    {
+        "name": "Returns from Graveyard to Extra Deck for Summon",
+        "url": "https://yugipedia.com/wiki/Returns_from_Graveyard_to_Extra_Deck_for_Summon"
+    },
+    {
+        "name": "Returns from hand to Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_hand_to_Deck"
+    },
+    {
+        "name": "Returns from hand to Deck for cost",
+        "url": "https://yugipedia.com/wiki/Returns_from_hand_to_Deck_for_cost"
+    },
+    {
+        "name": "Returns from hand to Deck for Summon",
+        "url": "https://yugipedia.com/wiki/Returns_from_hand_to_Deck_for_Summon"
+    },
+    {
+        "name": "Returns from your Extra Deck to your Main Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_Extra_Deck_to_your_Main_Deck"
+    },
+    {
+        "name": "Returns from your field to your Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_field_to_your_Deck"
+    },
+    {
+        "name": "Returns from your field to your Extra Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_field_to_your_Extra_Deck"
+    },
+    {
+        "name": "Returns from your field to your hand",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_field_to_your_hand"
+    },
+    {
+        "name": "Returns from your field to your opponent's hand",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_field_to_your_opponent%27s_hand"
+    },
+    {
+        "name": "Returns from your Graveyard to your Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_Graveyard_to_your_Deck"
+    },
+    {
+        "name": "Returns from your Graveyard to your Extra Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_Graveyard_to_your_Extra_Deck"
+    },
+    {
+        "name": "Returns from your hand to your Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_hand_to_your_Deck"
+    },
+    {
+        "name": "Returns from your opponent's field to your hand",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_opponent%27s_field_to_your_hand"
+    },
+    {
+        "name": "Returns from your opponent's field to your opponent's Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_opponent%27s_field_to_your_opponent%27s_Deck"
+    },
+    {
+        "name": "Returns from your opponent's field to your opponent's Extra Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_opponent%27s_field_to_your_opponent%27s_Extra_Deck"
+    },
+    {
+        "name": "Returns from your opponent's field to your opponent's hand",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_opponent%27s_field_to_your_opponent%27s_hand"
+    },
+    {
+        "name": "Returns from your opponent's Graveyard to your opponent's Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_opponent%27s_Graveyard_to_your_opponent%27s_Deck"
+    },
+    {
+        "name": "Returns from your opponent's Graveyard to your opponent's hand",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_opponent%27s_Graveyard_to_your_opponent%27s_hand"
+    },
+    {
+        "name": "Returns from your opponent's hand to your opponent's Deck",
+        "url": "https://yugipedia.com/wiki/Returns_from_your_opponent%27s_hand_to_your_opponent%27s_Deck"
+    },
+    {
+        "name": "Returns Fusion Materials for Contact Fusion to Deck",
+        "url": "https://yugipedia.com/wiki/Returns_Fusion_Materials_for_Contact_Fusion_to_Deck"
+    },
+    {
+        "name": "Returns Fusion Materials used in a Fusion Summon to Deck",
+        "url": "https://yugipedia.com/wiki/Returns_Fusion_Materials_used_in_a_Fusion_Summon_to_Deck"
+    },
+    {
+        "name": "Returns itself from Extra Deck to hand",
+        "url": "https://yugipedia.com/wiki/Returns_itself_from_Extra_Deck_to_hand"
+    },
+    {
+        "name": "Returns itself from field to Deck",
+        "url": "https://yugipedia.com/wiki/Returns_itself_from_field_to_Deck"
+    },
+    {
+        "name": "Returns itself from field to Deck for cost",
+        "url": "https://yugipedia.com/wiki/Returns_itself_from_field_to_Deck_for_cost"
+    },
+    {
+        "name": "Returns itself from field to Extra Deck",
+        "url": "https://yugipedia.com/wiki/Returns_itself_from_field_to_Extra_Deck"
+    },
+    {
+        "name": "Returns itself from field to Extra Deck for cost",
+        "url": "https://yugipedia.com/wiki/Returns_itself_from_field_to_Extra_Deck_for_cost"
+    },
+    {
+        "name": "Returns itself from field to hand",
+        "url": "https://yugipedia.com/wiki/Returns_itself_from_field_to_hand"
+    },
+    {
+        "name": "Returns itself from field to hand for cost",
+        "url": "https://yugipedia.com/wiki/Returns_itself_from_field_to_hand_for_cost"
+    },
+    {
+        "name": "Returns itself from Graveyard to Deck",
+        "url": "https://yugipedia.com/wiki/Returns_itself_from_Graveyard_to_Deck"
+    },
+    {
+        "name": "Returns itself from Graveyard to Deck for cost",
+        "url": "https://yugipedia.com/wiki/Returns_itself_from_Graveyard_to_Deck_for_cost"
+    },
+    {
+        "name": "Returns itself from Graveyard to Extra Deck",
+        "url": "https://yugipedia.com/wiki/Returns_itself_from_Graveyard_to_Extra_Deck"
+    },
+    {
+        "name": "Returns itself from Graveyard to hand",
+        "url": "https://yugipedia.com/wiki/Returns_itself_from_Graveyard_to_hand"
+    },
+    {
+        "name": "Returns itself from hand to Deck",
+        "url": "https://yugipedia.com/wiki/Returns_itself_from_hand_to_Deck"
+    },
+    {
+        "name": "Returns itself from hand to Deck for cost",
+        "url": "https://yugipedia.com/wiki/Returns_itself_from_hand_to_Deck_for_cost"
+    },
+    {
+        "name": "Returns itself to Deck while banished",
+        "url": "https://yugipedia.com/wiki/Returns_itself_to_Deck_while_banished"
+    },
+    {
+        "name": "Returns itself to field while banished",
+        "url": "https://yugipedia.com/wiki/Returns_itself_to_field_while_banished"
+    },
+    {
+        "name": "Returns itself to hand while banished",
+        "url": "https://yugipedia.com/wiki/Returns_itself_to_hand_while_banished"
+    },
+    {
+        "name": "Returns negated activations to Deck",
+        "url": "https://yugipedia.com/wiki/Returns_negated_activations_to_Deck"
+    },
+    {
+        "name": "Returns negated activations to hand",
+        "url": "https://yugipedia.com/wiki/Returns_negated_activations_to_hand"
+    },
+    {
+        "name": "Returns negated Summons to Deck",
+        "url": "https://yugipedia.com/wiki/Returns_negated_Summons_to_Deck"
+    },
+    {
+        "name": "Returns negated Summons to hand",
+        "url": "https://yugipedia.com/wiki/Returns_negated_Summons_to_hand"
+    },
+    {
+        "name": "Returns the opponent's banished cards to the Deck",
+        "url": "https://yugipedia.com/wiki/Returns_the_opponent%27s_banished_cards_to_the_Deck"
+    },
+    {
+        "name": "Returns the opponent's banished cards to the Extra Deck",
+        "url": "https://yugipedia.com/wiki/Returns_the_opponent%27s_banished_cards_to_the_Extra_Deck"
+    },
+    {
+        "name": "Returns the opponent's banished cards to the Graveyard",
+        "url": "https://yugipedia.com/wiki/Returns_the_opponent%27s_banished_cards_to_the_Graveyard"
+    },
+    {
+        "name": "Returns the player's banished cards to the Deck",
+        "url": "https://yugipedia.com/wiki/Returns_the_player%27s_banished_cards_to_the_Deck"
+    },
+    {
+        "name": "Returns the player's banished cards to the Deck by effect",
+        "url": "https://yugipedia.com/wiki/Returns_the_player%27s_banished_cards_to_the_Deck_by_effect"
+    },
+    {
+        "name": "Returns the player's banished cards to the Deck for cost",
+        "url": "https://yugipedia.com/wiki/Returns_the_player%27s_banished_cards_to_the_Deck_for_cost"
+    },
+    {
+        "name": "Returns the player's banished cards to the Extra Deck",
+        "url": "https://yugipedia.com/wiki/Returns_the_player%27s_banished_cards_to_the_Extra_Deck"
+    },
+    {
+        "name": "Returns the player's banished cards to the Graveyard",
+        "url": "https://yugipedia.com/wiki/Returns_the_player%27s_banished_cards_to_the_Graveyard"
+    },
+    {
+        "name": "Returns to the Deck cards that would be returned to the hand",
+        "url": "https://yugipedia.com/wiki/Returns_to_the_Deck_cards_that_would_be_returned_to_the_hand"
+    },
+    {
+        "name": "Returns to the Deck cards that would be sent to the Graveyard",
+        "url": "https://yugipedia.com/wiki/Returns_to_the_Deck_cards_that_would_be_sent_to_the_Graveyard"
+    },
+    {
+        "name": "Returns to the Deck other cards when they leave the field",
+        "url": "https://yugipedia.com/wiki/Returns_to_the_Deck_other_cards_when_they_leave_the_field"
+    },
+    {
+        "name": "Returns to the hand cards that would be returned to the Deck",
+        "url": "https://yugipedia.com/wiki/Returns_to_the_hand_cards_that_would_be_returned_to_the_Deck"
+    },
+    {
+        "name": "Returns to the hand cards that would be sent to the Graveyard",
+        "url": "https://yugipedia.com/wiki/Returns_to_the_hand_cards_that_would_be_sent_to_the_Graveyard"
+    },
+    {
+        "name": "Reveals cards from your Deck",
+        "url": "https://yugipedia.com/wiki/Reveals_cards_from_your_Deck"
+    },
+    {
+        "name": "Reveals cards from your opponent's Deck",
+        "url": "https://yugipedia.com/wiki/Reveals_cards_from_your_opponent%27s_Deck"
+    },
+    {
+        "name": "Reveals face-down cards",
+        "url": "https://yugipedia.com/wiki/Reveals_face-down_cards"
+    },
+    {
+        "name": "Reveals from the bottom of the player's Deck",
+        "url": "https://yugipedia.com/wiki/Reveals_from_the_bottom_of_the_player%27s_Deck"
+    },
+    {
+        "name": "Reveals from the bottom of your opponent's Deck",
+        "url": "https://yugipedia.com/wiki/Reveals_from_the_bottom_of_your_opponent%27s_Deck"
+    },
+    {
+        "name": "Reveals from the top of the player's Deck",
+        "url": "https://yugipedia.com/wiki/Reveals_from_the_top_of_the_player%27s_Deck"
+    },
+    {
+        "name": "Reveals from the top of your opponent's Deck",
+        "url": "https://yugipedia.com/wiki/Reveals_from_the_top_of_your_opponent%27s_Deck"
+    },
+    {
+        "name": "Reveals itself in the hand",
+        "url": "https://yugipedia.com/wiki/Reveals_itself_in_the_hand"
+    },
+    {
+        "name": "Reveals itself in the hand for cost",
+        "url": "https://yugipedia.com/wiki/Reveals_itself_in_the_hand_for_cost"
+    },
+    {
+        "name": "Reveals your Extra Deck",
+        "url": "https://yugipedia.com/wiki/Reveals_your_Extra_Deck"
+    },
+    {
+        "name": "Reveals your Extra Deck for cost",
+        "url": "https://yugipedia.com/wiki/Reveals_your_Extra_Deck_for_cost"
+    },
+    {
+        "name": "Reveals your hand",
+        "url": "https://yugipedia.com/wiki/Reveals_your_hand"
+    },
+    {
+        "name": "Reveals your hand for cost",
+        "url": "https://yugipedia.com/wiki/Reveals_your_hand_for_cost"
+    },
+    {
+        "name": "Reveals your hand for effect",
+        "url": "https://yugipedia.com/wiki/Reveals_your_hand_for_effect"
+    },
+    {
+        "name": "Reveals your hand for Special Summon",
+        "url": "https://yugipedia.com/wiki/Reveals_your_hand_for_Special_Summon"
+    },
+    {
+        "name": "Reveals your opponent's Deck",
+        "url": "https://yugipedia.com/wiki/Reveals_your_opponent%27s_Deck"
+    },
+    {
+        "name": "Reveals your opponent's Extra Deck",
+        "url": "https://yugipedia.com/wiki/Reveals_your_opponent%27s_Extra_Deck"
+    },
+    {
+        "name": "Reveals your opponent's hand",
+        "url": "https://yugipedia.com/wiki/Reveals_your_opponent%27s_hand"
+    },
+    {
+        "name": "Reverses stat changes",
+        "url": "https://yugipedia.com/wiki/Reverses_stat_changes"
+    },
+    {
+        "name": "Ritual Summons from your Deck",
+        "url": "https://yugipedia.com/wiki/Ritual_Summons_from_your_Deck"
+    },
+    {
+        "name": "Ritual Summons from your Graveyard",
+        "url": "https://yugipedia.com/wiki/Ritual_Summons_from_your_Graveyard"
+    },
+    {
+        "name": "Ritual Summons the player's banished monsters",
+        "url": "https://yugipedia.com/wiki/Ritual_Summons_the_player%27s_banished_monsters"
+    },
+    {
+        "name": "Sends excavated cards to the Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_excavated_cards_to_the_Graveyard"
+    },
+    {
+        "name": "Sends from Deck to Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_from_Deck_to_Graveyard"
+    },
+    {
+        "name": "Sends from Deck to Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Sends_from_Deck_to_Graveyard_for_cost"
+    },
+    {
+        "name": "Sends from Deck to Graveyard for Special Summon",
+        "url": "https://yugipedia.com/wiki/Sends_from_Deck_to_Graveyard_for_Special_Summon"
+    },
+    {
+        "name": "Sends from Extra Deck to Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_from_Extra_Deck_to_Graveyard"
+    },
+    {
+        "name": "Sends from Extra Deck to Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Sends_from_Extra_Deck_to_Graveyard_for_cost"
+    },
+    {
+        "name": "Sends from Extra Deck to Graveyard for Special Summon",
+        "url": "https://yugipedia.com/wiki/Sends_from_Extra_Deck_to_Graveyard_for_Special_Summon"
+    },
+    {
+        "name": "Sends from field to Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Sends_from_field_to_Graveyard_for_cost"
+    },
+    {
+        "name": "Sends from field to Graveyard for Special Summon",
+        "url": "https://yugipedia.com/wiki/Sends_from_field_to_Graveyard_for_Special_Summon"
+    },
+    {
+        "name": "Sends from hand to Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Sends_from_hand_to_Graveyard_for_cost"
+    },
+    {
+        "name": "Sends from hand to Graveyard for Special Summon",
+        "url": "https://yugipedia.com/wiki/Sends_from_hand_to_Graveyard_for_Special_Summon"
+    },
+    {
+        "name": "Sends from the bottom of your Deck to your Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_from_the_bottom_of_your_Deck_to_your_Graveyard"
+    },
+    {
+        "name": "Sends from the bottom of your Deck to your Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Sends_from_the_bottom_of_your_Deck_to_your_Graveyard_for_cost"
+    },
+    {
+        "name": "Sends from the opponent's hand to Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Sends_from_the_opponent%27s_hand_to_Graveyard_for_cost"
+    },
+    {
+        "name": "Sends from the top of your Deck to your Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_from_the_top_of_your_Deck_to_your_Graveyard"
+    },
+    {
+        "name": "Sends from the top of your Deck to your Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Sends_from_the_top_of_your_Deck_to_your_Graveyard_for_cost"
+    },
+    {
+        "name": "Sends from the top of your opponent's Deck to your opponent's Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_from_the_top_of_your_opponent%27s_Deck_to_your_opponent%27s_Graveyard"
+    },
+    {
+        "name": "Sends from the top of your opponent's Deck to your opponent's Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Sends_from_the_top_of_your_opponent%27s_Deck_to_your_opponent%27s_Graveyard_for_cost"
+    },
+    {
+        "name": "Sends from your Deck to your Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_from_your_Deck_to_your_Graveyard"
+    },
+    {
+        "name": "Sends from your Deck to your Graveyard for Ritual Summon",
+        "url": "https://yugipedia.com/wiki/Sends_from_your_Deck_to_your_Graveyard_for_Ritual_Summon"
+    },
+    {
+        "name": "Sends from your Extra Deck to your Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_from_your_Extra_Deck_to_your_Graveyard"
+    },
+    {
+        "name": "Sends from your Extra Deck to your Graveyard for Ritual Summon",
+        "url": "https://yugipedia.com/wiki/Sends_from_your_Extra_Deck_to_your_Graveyard_for_Ritual_Summon"
+    },
+    {
+        "name": "Sends from your field to your Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_from_your_field_to_your_Graveyard"
+    },
+    {
+        "name": "Sends from your hand to your Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_from_your_hand_to_your_Graveyard"
+    },
+    {
+        "name": "Sends from your opponent's Deck to your opponent's Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_from_your_opponent%27s_Deck_to_your_opponent%27s_Graveyard"
+    },
+    {
+        "name": "Sends from your opponent's Deck to your opponent's Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Sends_from_your_opponent%27s_Deck_to_your_opponent%27s_Graveyard_for_cost"
+    },
+    {
+        "name": "Sends from your opponent's Extra Deck to your opponent's Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_from_your_opponent%27s_Extra_Deck_to_your_opponent%27s_Graveyard"
+    },
+    {
+        "name": "Sends from your opponent's field to your opponent's Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_from_your_opponent%27s_field_to_your_opponent%27s_Graveyard"
+    },
+    {
+        "name": "Sends from your opponent's hand to your opponent's Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_from_your_opponent%27s_hand_to_your_opponent%27s_Graveyard"
+    },
+    {
+        "name": "Sends Fusion Materials for Contact Fusion to Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_Fusion_Materials_for_Contact_Fusion_to_Graveyard"
+    },
+    {
+        "name": "Sends itself from field to Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_itself_from_field_to_Graveyard"
+    },
+    {
+        "name": "Sends itself from field to Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Sends_itself_from_field_to_Graveyard_for_cost"
+    },
+    {
+        "name": "Sends itself from hand to Graveyard",
+        "url": "https://yugipedia.com/wiki/Sends_itself_from_hand_to_Graveyard"
+    },
+    {
+        "name": "Sends itself from hand to Graveyard for cost",
+        "url": "https://yugipedia.com/wiki/Sends_itself_from_hand_to_Graveyard_for_cost"
+    },
+    {
+        "name": "Set without Tribute",
+        "url": "https://yugipedia.com/wiki/Set_without_Tribute"
+    },
+    {
+        "name": "Sets excavated cards",
+        "url": "https://yugipedia.com/wiki/Sets_excavated_cards"
+    },
+    {
+        "name": "Sets from your Deck",
+        "url": "https://yugipedia.com/wiki/Sets_from_your_Deck"
+    },
+    {
+        "name": "Sets from your Deck to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Sets_from_your_Deck_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Sets from your Graveyard",
+        "url": "https://yugipedia.com/wiki/Sets_from_your_Graveyard"
+    },
+    {
+        "name": "Sets from your hand",
+        "url": "https://yugipedia.com/wiki/Sets_from_your_hand"
+    },
+    {
+        "name": "Sets from your hand to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Sets_from_your_hand_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Sets from your opponent's Deck to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Sets_from_your_opponent%27s_Deck_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Sets from your opponent's Graveyard to your field",
+        "url": "https://yugipedia.com/wiki/Sets_from_your_opponent%27s_Graveyard_to_your_field"
+    },
+    {
+        "name": "Sets from your opponent's Graveyard to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Sets_from_your_opponent%27s_Graveyard_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Sets from your opponent's hand to your field",
+        "url": "https://yugipedia.com/wiki/Sets_from_your_opponent%27s_hand_to_your_field"
+    },
+    {
+        "name": "Sets from your opponent's hand to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Sets_from_your_opponent%27s_hand_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Sets itself from the hand as a Spell Card",
+        "url": "https://yugipedia.com/wiki/Sets_itself_from_the_hand_as_a_Spell_Card"
+    },
+    {
+        "name": "Sets itself from your Graveyard",
+        "url": "https://yugipedia.com/wiki/Sets_itself_from_your_Graveyard"
+    },
+    {
+        "name": "Sets itself while banished",
+        "url": "https://yugipedia.com/wiki/Sets_itself_while_banished"
+    },
+    {
+        "name": "Sets negated activations",
+        "url": "https://yugipedia.com/wiki/Sets_negated_activations"
+    },
+    {
+        "name": "Sets the opponent's banished cards to the opponent's field",
+        "url": "https://yugipedia.com/wiki/Sets_the_opponent%27s_banished_cards_to_the_opponent%27s_field"
+    },
+    {
+        "name": "Sets the player's banished cards",
+        "url": "https://yugipedia.com/wiki/Sets_the_player%27s_banished_cards"
+    },
+    {
+        "name": "Shows the opponent's drawn cards",
+        "url": "https://yugipedia.com/wiki/Shows_the_opponent%27s_drawn_cards"
+    },
+    {
+        "name": "Shows the player's drawn cards",
+        "url": "https://yugipedia.com/wiki/Shows_the_player%27s_drawn_cards"
+    },
+    {
+        "name": "Shuffles excavated cards into the Deck",
+        "url": "https://yugipedia.com/wiki/Shuffles_excavated_cards_into_the_Deck"
+    },
+    {
+        "name": "Skips a turn",
+        "url": "https://yugipedia.com/wiki/Skips_a_turn"
+    },
+    {
+        "name": "Skips Battle Phase",
+        "url": "https://yugipedia.com/wiki/Skips_Battle_Phase"
+    },
+    {
+        "name": "Skips Draw Phase",
+        "url": "https://yugipedia.com/wiki/Skips_Draw_Phase"
+    },
+    {
+        "name": "Skips End Phase",
+        "url": "https://yugipedia.com/wiki/Skips_End_Phase"
+    },
+    {
+        "name": "Skips Main Phase 1",
+        "url": "https://yugipedia.com/wiki/Skips_Main_Phase_1"
+    },
+    {
+        "name": "Skips Main Phase 2",
+        "url": "https://yugipedia.com/wiki/Skips_Main_Phase_2"
+    },
+    {
+        "name": "Skips Standby Phase",
+        "url": "https://yugipedia.com/wiki/Skips_Standby_Phase"
+    },
+    {
+        "name": "Special Summon by its own condition once per Duel",
+        "url": "https://yugipedia.com/wiki/Special_Summon_by_its_own_condition_once_per_Duel"
+    },
+    {
+        "name": "Special Summon by its own condition once per turn",
+        "url": "https://yugipedia.com/wiki/Special_Summon_by_its_own_condition_once_per_turn"
+    },
+    {
+        "name": "Special Summon once per turn",
+        "url": "https://yugipedia.com/wiki/Special_Summon_once_per_turn"
+    },
+    {
+        "name": "Special Summons banished monsters",
+        "url": "https://yugipedia.com/wiki/Special_Summons_banished_monsters"
+    },
+    {
+        "name": "Special Summons copies of itself",
+        "url": "https://yugipedia.com/wiki/Special_Summons_copies_of_itself"
+    },
+    {
+        "name": "Special Summons excavated cards",
+        "url": "https://yugipedia.com/wiki/Special_Summons_excavated_cards"
+    },
+    {
+        "name": "Special Summons face-down",
+        "url": "https://yugipedia.com/wiki/Special_Summons_face-down"
+    },
+    {
+        "name": "Special Summons from the opponent's Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_the_opponent%27s_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Special Summons from your Deck",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_Deck"
+    },
+    {
+        "name": "Special Summons from your Deck to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_Deck_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons from your Extra Deck",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_Extra_Deck"
+    },
+    {
+        "name": "Special Summons from your Extra Deck to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_Extra_Deck_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons from your Graveyard",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_Graveyard"
+    },
+    {
+        "name": "Special Summons from your Graveyard to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_Graveyard_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons from your hand",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_hand"
+    },
+    {
+        "name": "Special Summons from your hand to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_hand_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons from your opponent's Deck to your field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_opponent%27s_Deck_to_your_field"
+    },
+    {
+        "name": "Special Summons from your opponent's Deck to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_opponent%27s_Deck_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons from your opponent's Extra Deck to your field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_opponent%27s_Extra_Deck_to_your_field"
+    },
+    {
+        "name": "Special Summons from your opponent's Extra Deck to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_opponent%27s_Extra_Deck_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons from your opponent's Graveyard to your field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_opponent%27s_Graveyard_to_your_field"
+    },
+    {
+        "name": "Special Summons from your opponent's Graveyard to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_opponent%27s_Graveyard_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons from your opponent's hand to your field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_opponent%27s_hand_to_your_field"
+    },
+    {
+        "name": "Special Summons from your opponent's hand to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_opponent%27s_hand_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons from your opponent's Spell & Trap Zone to your field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_opponent%27s_Spell_%26_Trap_Zone_to_your_field"
+    },
+    {
+        "name": "Special Summons from your opponent's Spell & Trap Zone to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_opponent%27s_Spell_%26_Trap_Zone_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons from your Pendulum Zone",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_Pendulum_Zone"
+    },
+    {
+        "name": "Special Summons from your Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Special Summons from your Spell & Trap Zone to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_from_your_Spell_%26_Trap_Zone_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons its Materials",
+        "url": "https://yugipedia.com/wiki/Special_Summons_its_Materials"
+    },
+    {
+        "name": "Special Summons itself",
+        "url": "https://yugipedia.com/wiki/Special_Summons_itself"
+    },
+    {
+        "name": "Special Summons itself face-down",
+        "url": "https://yugipedia.com/wiki/Special_Summons_itself_face-down"
+    },
+    {
+        "name": "Special Summons itself from your Deck",
+        "url": "https://yugipedia.com/wiki/Special_Summons_itself_from_your_Deck"
+    },
+    {
+        "name": "Special Summons itself from your Extra Deck",
+        "url": "https://yugipedia.com/wiki/Special_Summons_itself_from_your_Extra_Deck"
+    },
+    {
+        "name": "Special Summons itself from your Graveyard",
+        "url": "https://yugipedia.com/wiki/Special_Summons_itself_from_your_Graveyard"
+    },
+    {
+        "name": "Special Summons itself from your Graveyard to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_itself_from_your_Graveyard_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons itself from your hand",
+        "url": "https://yugipedia.com/wiki/Special_Summons_itself_from_your_hand"
+    },
+    {
+        "name": "Special Summons itself from your hand to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_itself_from_your_hand_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons itself from your Pendulum Zone",
+        "url": "https://yugipedia.com/wiki/Special_Summons_itself_from_your_Pendulum_Zone"
+    },
+    {
+        "name": "Special Summons itself from your Pendulum Zone to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_itself_from_your_Pendulum_Zone_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons itself from your Spell & Trap Zone",
+        "url": "https://yugipedia.com/wiki/Special_Summons_itself_from_your_Spell_%26_Trap_Zone"
+    },
+    {
+        "name": "Special Summons itself while banished",
+        "url": "https://yugipedia.com/wiki/Special_Summons_itself_while_banished"
+    },
+    {
+        "name": "Special Summons Materials",
+        "url": "https://yugipedia.com/wiki/Special_Summons_Materials"
+    },
+    {
+        "name": "Special Summons the opponent's banished monsters to the opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_the_opponent%27s_banished_monsters_to_the_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons the opponent's banished monsters to the player's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_the_opponent%27s_banished_monsters_to_the_player%27s_field"
+    },
+    {
+        "name": "Special Summons the player's banished monsters",
+        "url": "https://yugipedia.com/wiki/Special_Summons_the_player%27s_banished_monsters"
+    },
+    {
+        "name": "Special Summons the player's banished monsters to the opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_the_player%27s_banished_monsters_to_the_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons Tokens",
+        "url": "https://yugipedia.com/wiki/Special_Summons_Tokens"
+    },
+    {
+        "name": "Special Summons Tokens to your opponent's field",
+        "url": "https://yugipedia.com/wiki/Special_Summons_Tokens_to_your_opponent%27s_field"
+    },
+    {
+        "name": "Special Summons Xyz Materials",
+        "url": "https://yugipedia.com/wiki/Special_Summons_Xyz_Materials"
+    },
+    {
+        "name": "Specific Ritual Spell Card",
+        "url": "https://yugipedia.com/wiki/Specific_Ritual_Spell_Card"
+    },
+    {
+        "name": "Standby Phase Activation",
+        "url": "https://yugipedia.com/wiki/Standby_Phase_Activation"
+    },
+    {
+        "name": "Strict fusion-performing card",
+        "url": "https://yugipedia.com/wiki/Strict_fusion-performing_card"
+    },
+    {
+        "name": "Substitutes for Synchro Material",
+        "url": "https://yugipedia.com/wiki/Substitutes_for_Synchro_Material"
+    },
+    {
+        "name": "Summon cannot be negated",
+        "url": "https://yugipedia.com/wiki/Summon_cannot_be_negated"
+    },
+    {
+        "name": "Switches ATK and DEF",
+        "url": "https://yugipedia.com/wiki/Switches_ATK_and_DEF"
+    },
+    {
+        "name": "Synchro Summons from your Graveyard",
+        "url": "https://yugipedia.com/wiki/Synchro_Summons_from_your_Graveyard"
+    },
+    {
+        "name": "Takes control of an opponent's monster",
+        "url": "https://yugipedia.com/wiki/Takes_control_of_an_opponent%27s_monster"
+    },
+    {
+        "name": "Takes control of equipped",
+        "url": "https://yugipedia.com/wiki/Takes_control_of_equipped"
+    },
+    {
+        "name": "This card gains ATK",
+        "url": "https://yugipedia.com/wiki/This_card_gains_ATK"
+    },
+    {
+        "name": "This card gains DEF",
+        "url": "https://yugipedia.com/wiki/This_card_gains_DEF"
+    },
+    {
+        "name": "This card gains Levels",
+        "url": "https://yugipedia.com/wiki/This_card_gains_Levels"
+    },
+    {
+        "name": "This card gains Ranks",
+        "url": "https://yugipedia.com/wiki/This_card_gains_Ranks"
+    },
+    {
+        "name": "This card loses ATK",
+        "url": "https://yugipedia.com/wiki/This_card_loses_ATK"
+    },
+    {
+        "name": "This card loses DEF",
+        "url": "https://yugipedia.com/wiki/This_card_loses_DEF"
+    },
+    {
+        "name": "This card loses Levels",
+        "url": "https://yugipedia.com/wiki/This_card_loses_Levels"
+    },
+    {
+        "name": "Transfer",
+        "url": "https://yugipedia.com/wiki/Transfer"
+    },
+    {
+        "name": "Treated as a Legend Card",
+        "url": "https://yugipedia.com/wiki/Treated_as_a_Legend_Card"
+    },
+    {
+        "name": "Treated as a Normal Monster",
+        "url": "https://yugipedia.com/wiki/Treated_as_a_Normal_Monster"
+    },
+    {
+        "name": "Treated as alternate Attribute",
+        "url": "https://yugipedia.com/wiki/Treated_as_alternate_Attribute"
+    },
+    {
+        "name": "Treated as alternate Level",
+        "url": "https://yugipedia.com/wiki/Treated_as_alternate_Level"
+    },
+    {
+        "name": "Treated as alternate name",
+        "url": "https://yugipedia.com/wiki/Treated_as_alternate_name"
+    },
+    {
+        "name": "Treated as alternate Type",
+        "url": "https://yugipedia.com/wiki/Treated_as_alternate_Type"
+    },
+    {
+        "name": "Treated as archetype",
+        "url": "https://yugipedia.com/wiki/Treated_as_archetype"
+    },
+    {
+        "name": "Treated as Continuous Spell Card",
+        "url": "https://yugipedia.com/wiki/Treated_as_Continuous_Spell_Card"
+    },
+    {
+        "name": "Treated as Continuous Trap Card",
+        "url": "https://yugipedia.com/wiki/Treated_as_Continuous_Trap_Card"
+    },
+    {
+        "name": "Treated as Equip Card",
+        "url": "https://yugipedia.com/wiki/Treated_as_Equip_Card"
+    },
+    {
+        "name": "Treated as multiple Attributes",
+        "url": "https://yugipedia.com/wiki/Treated_as_multiple_Attributes"
+    },
+    {
+        "name": "Treated as multiple Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Treated_as_multiple_Fusion_Materials"
+    },
+    {
+        "name": "Treated as multiple names",
+        "url": "https://yugipedia.com/wiki/Treated_as_multiple_names"
+    },
+    {
+        "name": "Treated as multiple Types",
+        "url": "https://yugipedia.com/wiki/Treated_as_multiple_Types"
+    },
+    {
+        "name": "Treated as multiple Xyz Materials",
+        "url": "https://yugipedia.com/wiki/Treated_as_multiple_Xyz_Materials"
+    },
+    {
+        "name": "Treats field as Field Spell Card",
+        "url": "https://yugipedia.com/wiki/Treats_field_as_Field_Spell_Card"
+    },
+    {
+        "name": "Treats itself as a non-Tuner monster",
+        "url": "https://yugipedia.com/wiki/Treats_itself_as_a_non-Tuner_monster"
+    },
+    {
+        "name": "Treats itself as a Tuner monster",
+        "url": "https://yugipedia.com/wiki/Treats_itself_as_a_Tuner_monster"
+    },
+    {
+        "name": "Treats monsters as Continuous Spell Cards",
+        "url": "https://yugipedia.com/wiki/Treats_monsters_as_Continuous_Spell_Cards"
+    },
+    {
+        "name": "Treats monsters as Continuous Trap Cards",
+        "url": "https://yugipedia.com/wiki/Treats_monsters_as_Continuous_Trap_Cards"
+    },
+    {
+        "name": "Treats monsters as Equip Cards",
+        "url": "https://yugipedia.com/wiki/Treats_monsters_as_Equip_Cards"
+    },
+    {
+        "name": "Treats monsters as not being on the field",
+        "url": "https://yugipedia.com/wiki/Treats_monsters_as_not_being_on_the_field"
+    },
+    {
+        "name": "Treats monsters as Spell Cards",
+        "url": "https://yugipedia.com/wiki/Treats_monsters_as_Spell_Cards"
+    },
+    {
+        "name": "Treats monsters as Tuner monsters",
+        "url": "https://yugipedia.com/wiki/Treats_monsters_as_Tuner_monsters"
+    },
+    {
+        "name": "Treats Special Summon as Fusion Summon",
+        "url": "https://yugipedia.com/wiki/Treats_Special_Summon_as_Fusion_Summon"
+    },
+    {
+        "name": "Treats Special Summon as Link Summon",
+        "url": "https://yugipedia.com/wiki/Treats_Special_Summon_as_Link_Summon"
+    },
+    {
+        "name": "Treats Special Summon as Ritual Summon",
+        "url": "https://yugipedia.com/wiki/Treats_Special_Summon_as_Ritual_Summon"
+    },
+    {
+        "name": "Treats Special Summon as Special Summon with a different card",
+        "url": "https://yugipedia.com/wiki/Treats_Special_Summon_as_Special_Summon_with_a_different_card"
+    },
+    {
+        "name": "Treats Special Summon as Synchro Summon",
+        "url": "https://yugipedia.com/wiki/Treats_Special_Summon_as_Synchro_Summon"
+    },
+    {
+        "name": "Treats Special Summon as Xyz Summon",
+        "url": "https://yugipedia.com/wiki/Treats_Special_Summon_as_Xyz_Summon"
+    },
+    {
+        "name": "Treats Spell Cards as Equip Cards",
+        "url": "https://yugipedia.com/wiki/Treats_Spell_Cards_as_Equip_Cards"
+    },
+    {
+        "name": "Treats Spell Cards as monsters",
+        "url": "https://yugipedia.com/wiki/Treats_Spell_Cards_as_monsters"
+    },
+    {
+        "name": "Treats Trap Cards as Equip Cards",
+        "url": "https://yugipedia.com/wiki/Treats_Trap_Cards_as_Equip_Cards"
+    },
+    {
+        "name": "Treats Trap Cards as monsters",
+        "url": "https://yugipedia.com/wiki/Treats_Trap_Cards_as_monsters"
+    },
+    {
+        "name": "Tribute Summon without Tribute",
+        "url": "https://yugipedia.com/wiki/Tribute_Summon_without_Tribute"
+    },
+    {
+        "name": "Tributes as an effect",
+        "url": "https://yugipedia.com/wiki/Tributes_as_an_effect"
+    },
+    {
+        "name": "Tributes for cost",
+        "url": "https://yugipedia.com/wiki/Tributes_for_cost"
+    },
+    {
+        "name": "Tributes for Special Summon",
+        "url": "https://yugipedia.com/wiki/Tributes_for_Special_Summon"
+    },
+    {
+        "name": "Tributes Fusion Materials for Contact Fusion",
+        "url": "https://yugipedia.com/wiki/Tributes_Fusion_Materials_for_Contact_Fusion"
+    },
+    {
+        "name": "Tributes itself as an effect",
+        "url": "https://yugipedia.com/wiki/Tributes_itself_as_an_effect"
+    },
+    {
+        "name": "Tributes itself for cost",
+        "url": "https://yugipedia.com/wiki/Tributes_itself_for_cost"
+    },
+    {
+        "name": "Tributes opponent's monsters",
+        "url": "https://yugipedia.com/wiki/Tributes_opponent%27s_monsters"
+    },
+    {
+        "name": "Turn limited effects",
+        "url": "https://yugipedia.com/wiki/Turn_limited_effects"
+    },
+    {
+        "name": "Unaffected by activated card effects",
+        "url": "https://yugipedia.com/wiki/Unaffected_by_activated_card_effects"
+    },
+    {
+        "name": "Unaffected by Monster Cards",
+        "url": "https://yugipedia.com/wiki/Unaffected_by_Monster_Cards"
+    },
+    {
+        "name": "Unaffected by other card effects",
+        "url": "https://yugipedia.com/wiki/Unaffected_by_other_card_effects"
+    },
+    {
+        "name": "Unaffected by specific cards",
+        "url": "https://yugipedia.com/wiki/Unaffected_by_specific_cards"
+    },
+    {
+        "name": "Unaffected by Spell Cards",
+        "url": "https://yugipedia.com/wiki/Unaffected_by_Spell_Cards"
+    },
+    {
+        "name": "Unaffected by the opponent's card effects",
+        "url": "https://yugipedia.com/wiki/Unaffected_by_the_opponent%27s_card_effects"
+    },
+    {
+        "name": "Unaffected by the opponent's Monster Cards",
+        "url": "https://yugipedia.com/wiki/Unaffected_by_the_opponent%27s_Monster_Cards"
+    },
+    {
+        "name": "Unaffected by the opponent's Skill Cards",
+        "url": "https://yugipedia.com/wiki/Unaffected_by_the_opponent%27s_Skill_Cards"
+    },
+    {
+        "name": "Unaffected by the opponent's Spell Cards",
+        "url": "https://yugipedia.com/wiki/Unaffected_by_the_opponent%27s_Spell_Cards"
+    },
+    {
+        "name": "Unaffected by the opponent's Trap Cards",
+        "url": "https://yugipedia.com/wiki/Unaffected_by_the_opponent%27s_Trap_Cards"
+    },
+    {
+        "name": "Unaffected by Trap Cards",
+        "url": "https://yugipedia.com/wiki/Unaffected_by_Trap_Cards"
+    },
+    {
+        "name": "Uses cards in the Graveyard as Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_in_the_Graveyard_as_Fusion_Materials"
+    },
+    {
+        "name": "Uses cards in the hand as Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_in_the_hand_as_Fusion_Materials"
+    },
+    {
+        "name": "Uses cards in the hand as Link Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_in_the_hand_as_Link_Materials"
+    },
+    {
+        "name": "Uses cards in the hand as Synchro Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_in_the_hand_as_Synchro_Materials"
+    },
+    {
+        "name": "Uses cards in the hand as Xyz Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_in_the_hand_as_Xyz_Materials"
+    },
+    {
+        "name": "Uses cards in the opponent's Graveyard as Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_in_the_opponent%27s_Graveyard_as_Fusion_Materials"
+    },
+    {
+        "name": "Uses cards in the player's Deck as Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_in_the_player%27s_Deck_as_Fusion_Materials"
+    },
+    {
+        "name": "Uses cards in the player's Extra Deck as Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_in_the_player%27s_Extra_Deck_as_Fusion_Materials"
+    },
+    {
+        "name": "Uses cards in the player's Graveyard as Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_in_the_player%27s_Graveyard_as_Fusion_Materials"
+    },
+    {
+        "name": "Uses cards on the field as Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_on_the_field_as_Fusion_Materials"
+    },
+    {
+        "name": "Uses cards on the opponent's field as Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_on_the_opponent%27s_field_as_Fusion_Materials"
+    },
+    {
+        "name": "Uses cards on the opponent's field as Link Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_on_the_opponent%27s_field_as_Link_Materials"
+    },
+    {
+        "name": "Uses cards on the opponent's field as Xyz Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_on_the_opponent%27s_field_as_Xyz_Materials"
+    },
+    {
+        "name": "Uses cards on the opponent's field for Contact Fusion",
+        "url": "https://yugipedia.com/wiki/Uses_cards_on_the_opponent%27s_field_for_Contact_Fusion"
+    },
+    {
+        "name": "Uses cards on the player's field as Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_on_the_player%27s_field_as_Fusion_Materials"
+    },
+    {
+        "name": "Uses cards on the player's field as Ritual Materials",
+        "url": "https://yugipedia.com/wiki/Uses_cards_on_the_player%27s_field_as_Ritual_Materials"
+    },
+    {
+        "name": "Uses itself as a Fusion Material",
+        "url": "https://yugipedia.com/wiki/Uses_itself_as_a_Fusion_Material"
+    },
+    {
+        "name": "Uses itself as a Link Material",
+        "url": "https://yugipedia.com/wiki/Uses_itself_as_a_Link_Material"
+    },
+    {
+        "name": "Uses itself as a Synchro Material",
+        "url": "https://yugipedia.com/wiki/Uses_itself_as_a_Synchro_Material"
+    },
+    {
+        "name": "Uses itself as an Xyz Material",
+        "url": "https://yugipedia.com/wiki/Uses_itself_as_an_Xyz_Material"
+    },
+    {
+        "name": "Uses Spell Cards as Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Uses_Spell_Cards_as_Fusion_Materials"
+    },
+    {
+        "name": "Uses Spell Cards as Link Materials",
+        "url": "https://yugipedia.com/wiki/Uses_Spell_Cards_as_Link_Materials"
+    },
+    {
+        "name": "Uses Spell Cards as Synchro Materials",
+        "url": "https://yugipedia.com/wiki/Uses_Spell_Cards_as_Synchro_Materials"
+    },
+    {
+        "name": "Uses Spell Cards as Xyz Materials",
+        "url": "https://yugipedia.com/wiki/Uses_Spell_Cards_as_Xyz_Materials"
+    },
+    {
+        "name": "Uses Spell/Trap Cards as Tributes",
+        "url": "https://yugipedia.com/wiki/Uses_Spell/Trap_Cards_as_Tributes"
+    },
+    {
+        "name": "Uses Spell/Trap Cards as Tributes for Normal Summon",
+        "url": "https://yugipedia.com/wiki/Uses_Spell/Trap_Cards_as_Tributes_for_Normal_Summon"
+    },
+    {
+        "name": "Uses the opponent's monsters as Synchro Materials",
+        "url": "https://yugipedia.com/wiki/Uses_the_opponent%27s_monsters_as_Synchro_Materials"
+    },
+    {
+        "name": "Uses the opponent's monsters as Xyz Materials",
+        "url": "https://yugipedia.com/wiki/Uses_the_opponent%27s_monsters_as_Xyz_Materials"
+    },
+    {
+        "name": "Uses the player's banished cards as Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Uses_the_player%27s_banished_cards_as_Fusion_Materials"
+    },
+    {
+        "name": "Uses Trap Cards as Fusion Materials",
+        "url": "https://yugipedia.com/wiki/Uses_Trap_Cards_as_Fusion_Materials"
+    },
+    {
+        "name": "Variable effects",
+        "url": "https://yugipedia.com/wiki/Variable_effects"
+    },
+    {
+        "name": "Xyz Summon without Xyz Materials",
+        "url": "https://yugipedia.com/wiki/Xyz_Summon_without_Xyz_Materials"
+    },
+    {
+        "name": "Xyz Summons from your Graveyard",
+        "url": "https://yugipedia.com/wiki/Xyz_Summons_from_your_Graveyard"
+    },
+    {
+        "name": "You discard as an effect",
+        "url": "https://yugipedia.com/wiki/You_discard_as_an_effect"
+    },
+    {
+        "name": "You discard for cost",
+        "url": "https://yugipedia.com/wiki/You_discard_for_cost"
+    },
+    {
+        "name": "You draw cards",
+        "url": "https://yugipedia.com/wiki/You_draw_cards"
+    },
+    {
+        "name": "You gain Life Points",
+        "url": "https://yugipedia.com/wiki/You_gain_Life_Points"
+    },
+    {
+        "name": "You lose Life Points",
+        "url": "https://yugipedia.com/wiki/You_lose_Life_Points"
+    },
+    {
+        "name": "You take battle damage",
+        "url": "https://yugipedia.com/wiki/You_take_battle_damage"
+    },
+    {
+        "name": "Your monsters gain DEF",
+        "url": "https://yugipedia.com/wiki/Your_monsters_gain_DEF"
+    },
+    {
+        "name": "Your monsters gain Levels",
+        "url": "https://yugipedia.com/wiki/Your_monsters_gain_Levels"
+    },
+    {
+        "name": "Your monsters gain Ranks",
+        "url": "https://yugipedia.com/wiki/Your_monsters_gain_Ranks"
+    },
+    {
+        "name": "Your monsters lose ATK",
+        "url": "https://yugipedia.com/wiki/Your_monsters_lose_ATK"
+    },
+    {
+        "name": "Your monsters lose DEF",
+        "url": "https://yugipedia.com/wiki/Your_monsters_lose_DEF"
+    },
+    {
+        "name": "Your monsters lose Levels",
+        "url": "https://yugipedia.com/wiki/Your_monsters_lose_Levels"
+    },
+    {
+        "name": "Your monsters lose Ranks",
+        "url": "https://yugipedia.com/wiki/Your_monsters_lose_Ranks"
+    },
+    {
+        "name": "Your opponent discards",
+        "url": "https://yugipedia.com/wiki/Your_opponent_discards"
+    },
+    {
+        "name": "Your opponent draws cards",
+        "url": "https://yugipedia.com/wiki/Your_opponent_draws_cards"
+    },
+    {
+        "name": "Your opponent gains Life Points",
+        "url": "https://yugipedia.com/wiki/Your_opponent_gains_Life_Points"
+    },
+    {
+        "name": "Your opponent loses Life Points",
+        "url": "https://yugipedia.com/wiki/Your_opponent_loses_Life_Points"
+    },
+    {
+        "name": "Your opponent pays Life Points for cost",
+        "url": "https://yugipedia.com/wiki/Your_opponent_pays_Life_Points_for_cost"
+    },
+    {
+        "name": "Your opponent pays Life Points for effect",
+        "url": "https://yugipedia.com/wiki/Your_opponent_pays_Life_Points_for_effect"
+    },
+    {
+        "name": "Your opponent Special Summons",
+        "url": "https://yugipedia.com/wiki/Your_opponent_Special_Summons"
+    },
+    {
+        "name": "Your opponent takes battle damage",
+        "url": "https://yugipedia.com/wiki/Your_opponent_takes_battle_damage"
+    },
+    {
+        "name": "Your opponent's monsters gain ATK",
+        "url": "https://yugipedia.com/wiki/Your_opponent%27s_monsters_gain_ATK"
+    },
+    {
+        "name": "Your opponent's monsters gain DEF",
+        "url": "https://yugipedia.com/wiki/Your_opponent%27s_monsters_gain_DEF"
+    },
+    {
+        "name": "Your opponent's monsters gain Levels",
+        "url": "https://yugipedia.com/wiki/Your_opponent%27s_monsters_gain_Levels"
+    },
+    {
+        "name": "Your opponent's monsters gain Ranks",
+        "url": "https://yugipedia.com/wiki/Your_opponent%27s_monsters_gain_Ranks"
+    },
+    {
+        "name": "Your opponent's monsters lose ATK",
+        "url": "https://yugipedia.com/wiki/Your_opponent%27s_monsters_lose_ATK"
+    },
+    {
+        "name": "Your opponent's monsters lose DEF",
+        "url": "https://yugipedia.com/wiki/Your_opponent%27s_monsters_lose_DEF"
+    },
+    {
+        "name": "Your opponent's monsters lose Levels",
+        "url": "https://yugipedia.com/wiki/Your_opponent%27s_monsters_lose_Levels"
+    },
+    {
+        "name": "Your opponent's monsters lose Ranks",
+        "url": "https://yugipedia.com/wiki/Your_opponent%27s_monsters_lose_Ranks"
+    }
+]
