@@ -8,8 +8,8 @@ This project aims to classify Yu-Gi-Oh! cards based on their effects, attributes
 
 ## Project Status
 
-- [x] **Data Collection**
-- [ ] **Data Preprocessing and Exploratory Data Analysis (EDA)** *(Ongoing)*
+- [x] **Data Collection** *(Completed)*
+- [x] **Data Preprocessing and Exploratory Data Analysis (EDA)** *(Completed)*
 - [ ] **Model Development** *(In progress)*
 - [ ] **Evaluation and Validation** *(Not started)*
 
